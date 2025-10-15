@@ -1,0 +1,1 @@
+# Colocar orientação de rodar o app pelo streamlit #
