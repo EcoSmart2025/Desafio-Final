@@ -52,14 +52,10 @@ A arquitetura do projeto é modular e utiliza ferramentas de ponta para a orques
 
 | Nome | E-mail | Telefone |
 | :--- | :--- | :--- |
-| Alex | alexkamp@gmail.com | +5551999828211 |
 | Jair | jjuniorlopes@gmail.com | +5571992888890 |
 | Rogério | rogerio.batista.teixeira@gmail.com | +5561991810140 |
-| Emanuel | ferreirajesus@cdciber.eb.mil.br | +5521996696180 |
-| Mariana | contato.marianamoraless@gmail.com | +5511986448332 |
-| Gustavo | gustavo.giro.resende@gmail.com | +5511920183412 |
-| Elton | elmendir014@gmail.com | +5567991371742 |
-| Javan | javanoalmeida@gmail.com | +5574991415181 |
+| Robson  |  santos.robson@gmail.com  | +5521996696180 |
+| Javan | javanoalmeida@gmail.com | +5533988066314 |
 
 ---
 
