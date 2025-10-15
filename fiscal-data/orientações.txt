@@ -1,1 +1,1 @@
-# Arquivos simulando API com dados disponibilizados das Secretarias da Fazenda em formato CSV e XML #
+# Arquivos simulando API com dados disponibilizados de Janeiro de 2024 a Julho de 2025 das Secretarias da Fazenda em formato CSV e XML #
