@@ -3,277 +3,277 @@
   <registro_cabecalho>
     <chave_de_acesso>25070182442548430965432725100182427462518608</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>328041</número>
-    <natureza_da_operação>VENDA DE MERCADORIA ADQ OU RECEB DE TERC, DEST A NAO CONTRIB</natureza_da_operação>
-    <data_emissão>2025-07-09 06:31:15</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>328041</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA ADQ OU RECEB DE TERC, DEST A NAO CONTRIB</natureza_da_opera_o>
+    <data_emiss_o>2025-07-09 06:31:15</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-09 06:34:15</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>12889035000102</cpf_cnpj_emitente>
-    <razão_social_emitente>INOVAMED HOSPITALAR LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>390157570</inscrição_estadual_emitente>
+    <raz_o_social_emitente>INOVAMED HOSPITALAR LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>390157570</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>ERECHIM</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>ERECHIM</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>2441.44</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070192262132363322747643373539655246596075</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>13252</número>
-    <natureza_da_operação>VENDA DE MERC. ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2025-07-18 09:19:26</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>13252</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC. ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2025-07-18 09:19:26</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-18 09:29:26</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>29412918000120</cpf_cnpj_emitente>
-    <razão_social_emitente>MALTACARE DISTRIBUIDORA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>284271527</inscrição_estadual_emitente>
+    <raz_o_social_emitente>MALTACARE DISTRIBUIDORA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284271527</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>CAMPO GRANDE</município_emitente>
-    <cnpj_destinatário>9539711000294</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE CAMPO GRANDE</nome_destinatário>
-    <uf_destinatário>MS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>CAMPO GRANDE</munic_pio_emitente>
+    <cnpj_destinat_rio>9539711000294</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE CAMPO GRANDE</nome_destinat_rio>
+    <uf_destinat_rio>MS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>3 - OPERAÇÃO NÃO PRESENCIAL, TELEATENDIMENTO</presença_do_comprador>
+    <presen_a_do_comprador>3 - OPERAÇÃO NÃO PRESENCIAL, TELEATENDIMENTO</presen_a_do_comprador>
     <valor_nota_fiscal>126476.34</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070171673870811417350071118950155106634272</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4577</número>
-    <natureza_da_operação>VENDA DE MERCADORIAS INTER ESTADUAL - 6.102</natureza_da_operação>
-    <data_emissão>2025-07-31 08:35:10</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4577</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIAS INTER ESTADUAL - 6.102</natureza_da_opera_o>
+    <data_emiss_o>2025-07-31 08:35:10</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-31 08:40:10</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>10245418000112</cpf_cnpj_emitente>
-    <razão_social_emitente>TMPRO COMERCIO DE ELETRO ELETRONICOS LTDA - MATRIZ</razão_social_emitente>
-    <inscrição_estadual_emitente>963814206</inscrição_estadual_emitente>
+    <raz_o_social_emitente>TMPRO COMERCIO DE ELETRO ELETRONICOS LTDA - MATRIZ</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963814206</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>5055128000176</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE CAMPINA GRANDE</nome_destinatário>
-    <uf_destinatário>PB</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>5055128000176</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE CAMPINA GRANDE</nome_destinat_rio>
+    <uf_destinat_rio>PB</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>71921.84</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070113623832024212113109900271043165260169</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4791</número>
-    <natureza_da_operação>Venda a prazo</natureza_da_operação>
-    <data_emissão>2025-07-20 13:59:54</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4791</n_mero>
+    <natureza_da_opera_o>Venda a prazo</natureza_da_opera_o>
+    <data_emiss_o>2025-07-20 13:59:54</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-20 14:01:54</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>33180160000119</cpf_cnpj_emitente>
-    <razão_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>34110590060</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>34110590060</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>JUIZ DE FORA</município_emitente>
-    <cnpj_destinatário>9595886000138</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>JUIZ DE FORA</munic_pio_emitente>
+    <cnpj_destinat_rio>9595886000138</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1138.44</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070173046858173616257871251326276926944487</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>726</número>
-    <natureza_da_operação>Venda de mercadoria adq de terceiros, em venda a ordem</natureza_da_operação>
-    <data_emissão>2025-07-16 14:24:07</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>726</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adq de terceiros, em venda a ordem</natureza_da_opera_o>
+    <data_emiss_o>2025-07-16 14:24:07</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-16 14:31:07</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>42152392000154</cpf_cnpj_emitente>
-    <razão_social_emitente>C K COMERCIO DE FERRAGENS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>390190012</inscrição_estadual_emitente>
+    <raz_o_social_emitente>C K COMERCIO DE FERRAGENS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>390190012</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>ERECHIM</município_emitente>
-    <cnpj_destinatário>75101873000432</cnpj_destinatário>
-    <nome_destinatário>UTFPR CAMPUS PATO BRANCO</nome_destinatário>
-    <uf_destinatário>PR</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>ERECHIM</munic_pio_emitente>
+    <cnpj_destinat_rio>75101873000432</cnpj_destinat_rio>
+    <nome_destinat_rio>UTFPR CAMPUS PATO BRANCO</nome_destinat_rio>
+    <uf_destinat_rio>PR</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>7566.47</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070106252198943996521273722787270876769579</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22594</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2025-07-21 09:28:44</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22594</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2025-07-21 09:28:44</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-21 09:31:44</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>394502039784</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>394502039784</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>373.47</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070181070144274863094259799098051596251080</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3510129</número>
-    <natureza_da_operação>Outras Entradas - Dev Remessa Escola</natureza_da_operação>
-    <data_emissão>2025-07-20 07:36:33</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3510129</n_mero>
+    <natureza_da_opera_o>Outras Entradas - Dev Remessa Escola</natureza_da_opera_o>
+    <data_emiss_o>2025-07-20 07:36:33</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-20 07:45:33</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>6267630001509</cpf_cnpj_emitente>
-    <razão_social_emitente>COMPANHIA BRASILEIRA DE EDUC. E SIST. DE ENS. S.A - PR OP</razão_social_emitente>
-    <inscrição_estadual_emitente>9085104702</inscrição_estadual_emitente>
+    <raz_o_social_emitente>COMPANHIA BRASILEIRA DE EDUC. E SIST. DE ENS. S.A - PR OP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>9085104702</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>CURITIBA</município_emitente>
-    <cnpj_destinatário>394429021965</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>PA</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CURITIBA</munic_pio_emitente>
+    <cnpj_destinat_rio>394429021965</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>PA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>618.24</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070123401960175073164940530378401937968410</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>368287</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2025-07-16 21:24:00</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>368287</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2025-07-16 21:24:00</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-16 21:28:00</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>261.78</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070134969388357442965158784533210290268504</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>13895</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2025-07-23 17:48:40</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>13895</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2025-07-23 17:48:40</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-23 17:53:40</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>15641333000177</cpf_cnpj_emitente>
-    <razão_social_emitente>SERCIMAQ VENDA E ASSISTENCIA TECNICA DE MAQUINAS E MOTORES L</razão_social_emitente>
-    <inscrição_estadual_emitente>1090369961</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SERCIMAQ VENDA E ASSISTENCIA TECNICA DE MAQUINAS E MOTORES L</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1090369961</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>SANTA MARIA</município_emitente>
-    <cnpj_destinatário>9575381000292</cnpj_destinatário>
-    <nome_destinatário>BASE ADMINISTRATIVA DA GUARNICAO DE SANTA MARIA</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SANTA MARIA</munic_pio_emitente>
+    <cnpj_destinat_rio>9575381000292</cnpj_destinat_rio>
+    <nome_destinat_rio>BASE ADMINISTRATIVA DA GUARNICAO DE SANTA MARIA</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>18.26</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070194505319233667392832118428361982469541</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-07-20 09:37:32</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-07-20 09:37:32</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-20 09:40:32</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>535.74</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070170902659552844575819766988728980109568</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>342</número>
-    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
-    <data_emissão>2025-07-27 10:53:59</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>342</n_mero>
+    <natureza_da_opera_o>Venda Fora do Estado</natureza_da_opera_o>
+    <data_emiss_o>2025-07-27 10:53:59</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-27 10:59:59</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>42933602000141</cpf_cnpj_emitente>
-    <razão_social_emitente>ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>261222082</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>261222082</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>SANTO AMARO DA IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10673078000120</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA- IFMS</nome_destinatário>
-    <uf_destinatário>MS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SANTO AMARO DA IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10673078000120</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA- IFMS</nome_destinat_rio>
+    <uf_destinat_rio>MS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>790.17</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25070125670357032790469687327047878560982028</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-07-05 20:21:21</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-07-05 20:21:21</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-07-05 20:25:21</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>606.1</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

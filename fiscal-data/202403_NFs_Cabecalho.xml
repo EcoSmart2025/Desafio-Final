@@ -3,116 +3,116 @@
   <registro_cabecalho>
     <chave_de_acesso>24030124992970666849537094045007785264261000</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>159511</número>
-    <natureza_da_operação>RETORNO DE MERCADORIA P/ CONSERTO</natureza_da_operação>
-    <data_emissão>2024-03-14 07:14:06</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>159511</n_mero>
+    <natureza_da_opera_o>RETORNO DE MERCADORIA P/ CONSERTO</natureza_da_opera_o>
+    <data_emiss_o>2024-03-14 07:14:06</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-03-14 07:23:06</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>33702028000804</cpf_cnpj_emitente>
-    <razão_social_emitente>SIMCAUTO MECANICA E REPRESENTACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77511032</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SIMCAUTO MECANICA E REPRESENTACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77511032</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394494000560</cnpj_destinatário>
-    <nome_destinatário>SECRETARIA DE GESTAO E ENSINO EM SEGURANCA PUBLICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394494000560</cnpj_destinat_rio>
+    <nome_destinat_rio>SECRETARIA DE GESTAO E ENSINO EM SEGURANCA PUBLICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>50867.6</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24030151120991750626921692259096594202468529</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>726</número>
-    <natureza_da_operação>Venda de mercadoria adq de terceiros, em venda a ordem</natureza_da_operação>
-    <data_emissão>2024-03-11 04:14:13</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>726</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adq de terceiros, em venda a ordem</natureza_da_opera_o>
+    <data_emiss_o>2024-03-11 04:14:13</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-03-11 04:17:13</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>42152392000154</cpf_cnpj_emitente>
-    <razão_social_emitente>C K COMERCIO DE FERRAGENS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>390190012</inscrição_estadual_emitente>
+    <raz_o_social_emitente>C K COMERCIO DE FERRAGENS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>390190012</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>ERECHIM</município_emitente>
-    <cnpj_destinatário>75101873000432</cnpj_destinatário>
-    <nome_destinatário>UTFPR CAMPUS PATO BRANCO</nome_destinatário>
-    <uf_destinatário>PR</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>ERECHIM</munic_pio_emitente>
+    <cnpj_destinat_rio>75101873000432</cnpj_destinat_rio>
+    <nome_destinat_rio>UTFPR CAMPUS PATO BRANCO</nome_destinat_rio>
+    <uf_destinat_rio>PR</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>6190.4</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24030183880226987170144583621585947953155798</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2525</número>
-    <natureza_da_operação>VENDA DE MERCADORIA FORA DO ESTADO</natureza_da_operação>
-    <data_emissão>2024-03-28 15:49:44</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2525</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA FORA DO ESTADO</natureza_da_opera_o>
+    <data_emiss_o>2024-03-28 15:49:44</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-03-28 15:56:44</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>29843878000170</cpf_cnpj_emitente>
-    <razão_social_emitente>V CALDI PEREIRA PECAS E SERVICOS DIESEL</razão_social_emitente>
-    <inscrição_estadual_emitente>284290777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>V CALDI PEREIRA PECAS E SERVICOS DIESEL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284290777</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>COXIM</município_emitente>
-    <cnpj_destinatário>9615848000108</cnpj_destinatário>
-    <nome_destinatário>4 BATALHAO LOGISTICO</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>COXIM</munic_pio_emitente>
+    <cnpj_destinat_rio>9615848000108</cnpj_destinat_rio>
+    <nome_destinat_rio>4 BATALHAO LOGISTICO</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>464.7</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24030146752058884739591883728576010672741334</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>9568</número>
-    <natureza_da_operação>Vda Cmb/Lub.cons/usu.final estab.outra UF</natureza_da_operação>
-    <data_emissão>2024-03-08 05:51:50</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>9568</n_mero>
+    <natureza_da_opera_o>Vda Cmb/Lub.cons/usu.final estab.outra UF</natureza_da_opera_o>
+    <data_emiss_o>2024-03-08 05:51:50</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-03-08 05:52:50</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34274233010248</cpf_cnpj_emitente>
-    <razão_social_emitente>VIBRA ENERGIA S.A</razão_social_emitente>
-    <inscrição_estadual_emitente>100235549</inscrição_estadual_emitente>
+    <raz_o_social_emitente>VIBRA ENERGIA S.A</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>100235549</inscri_o_estadual_emitente>
     <uf_emitente>GO</uf_emitente>
-    <município_emitente>ANAPOLIS</município_emitente>
-    <cnpj_destinatário>394429000100</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>ANAPOLIS</munic_pio_emitente>
+    <cnpj_destinat_rio>394429000100</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>12057.41</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24030192780895603422765052680353557191199362</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369180</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-03-01 08:55:18</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369180</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-03-01 08:55:18</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-03-01 09:00:18</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>284.09</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

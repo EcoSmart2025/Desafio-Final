@@ -3,523 +3,523 @@
   <registro_item>
     <chave_de_acesso>24050121536347862145891533746258145821317418</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2024-05-31 22:15:06</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2024-05-31 22:15:06</data_emiss_o>
     <cpf_cnpj_emitente>3605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>PERJETA 420 MG SOL INJ ROCHE</descrição_do_produto_serviço>
-    <código_ncm_sh>30021590</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>PERJETA 420 MG SOL INJ ROCHE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30021590</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos imunológicos, apresentados em doses ou acondicionados para venda a retalho</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>0.9</quantidade>
     <unidade>FA</unidade>
-    <valor_unitário>11522.74</valor_unitário>
+    <valor_unit_rio>11522.74</valor_unit_rio>
     <valor_total>10370.47</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050121536347862145891533746258145821317418</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2024-05-31 22:15:06</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2024-05-31 22:15:06</data_emiss_o>
     <cpf_cnpj_emitente>3605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>BIO MANGUINHOS TRASTUZUMABE 150MG FR</descrição_do_produto_serviço>
-    <código_ncm_sh>30049099</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>BIO MANGUINHOS TRASTUZUMABE 150MG FR</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30049099</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros medicamentos contendo produtos para fins terapêuticos, etc, doses</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>2.65</quantidade>
     <unidade>FR</unidade>
-    <valor_unitário>1265.78</valor_unitário>
+    <valor_unit_rio>1265.78</valor_unit_rio>
     <valor_total>3354.32</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050121536347862145891533746258145821317418</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2024-05-31 22:15:06</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2024-05-31 22:15:06</data_emiss_o>
     <cpf_cnpj_emitente>3605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>B-PLATIN 450 MG PO LIOF BLAU</descrição_do_produto_serviço>
-    <código_ncm_sh>30049099</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>B-PLATIN 450 MG PO LIOF BLAU</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30049099</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros medicamentos contendo produtos para fins terapêuticos, etc, doses</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>0.9</quantidade>
     <unidade>FA</unidade>
-    <valor_unitário>109.45</valor_unitário>
+    <valor_unit_rio>109.45</valor_unit_rio>
     <valor_total>98.51</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050121536347862145891533746258145821317418</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2024-05-31 22:15:06</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2024-05-31 22:15:06</data_emiss_o>
     <cpf_cnpj_emitente>3605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>PACLITAXEL ACCORD 100 MG SOL INJ</descrição_do_produto_serviço>
-    <código_ncm_sh>30049041</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>PACLITAXEL ACCORD 100 MG SOL INJ</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30049041</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Medicamentos contendo metoclopramida/cloridrato, etc, em doses</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>3.29</quantidade>
     <unidade>FA</unidade>
-    <valor_unitário>52.63</valor_unitário>
+    <valor_unit_rio>52.63</valor_unit_rio>
     <valor_total>173.15</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050121536347862145891533746258145821317418</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2024-05-31 22:15:06</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2024-05-31 22:15:06</data_emiss_o>
     <cpf_cnpj_emitente>3605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>EQUIPO BOMBA INFUSOMAT PLUS SET AIR IL PCV FREE - 441704PL</descrição_do_produto_serviço>
-    <código_ncm_sh>90189010</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>EQUIPO BOMBA INFUSOMAT PLUS SET AIR IL PCV FREE - 441704PL</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90189010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros instrumentos e aparelhos para transfusão de sangue ou infusão intravenosa</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>1.2</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>43.78</valor_unitário>
+    <valor_unit_rio>43.78</valor_unit_rio>
     <valor_total>52.54</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050185297680543778521662599995560349962399</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3386</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-05-20 03:43:11</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3386</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 03:43:11</data_emiss_o>
     <cpf_cnpj_emitente>78796778000146</cpf_cnpj_emitente>
-    <razão_social_emitente>G DE BORBA - MARISKAP</razão_social_emitente>
-    <inscrição_estadual_emitente>1016202980</inscrição_estadual_emitente>
+    <raz_o_social_emitente>G DE BORBA - MARISKAP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1016202980</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>CURITIBA</município_emitente>
-    <cnpj_destinatário>394429005927</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CURITIBA</munic_pio_emitente>
+    <cnpj_destinat_rio>394429005927</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>TAPETE PERSONALIZADO 2.00X1.00</descrição_do_produto_serviço>
-    <código_ncm_sh>57050000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>TAPETE PERSONALIZADO 2.00X1.00</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>57050000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros tapetes e revestimentos para pisos (pavimentos), de matérias têxteis, mesmo confeccionados</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>2.22</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>463.07</valor_unitário>
+    <valor_unit_rio>463.07</valor_unit_rio>
     <valor_total>1028.02</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050185297680543778521662599995560349962399</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3386</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-05-20 03:43:11</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3386</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 03:43:11</data_emiss_o>
     <cpf_cnpj_emitente>78796778000146</cpf_cnpj_emitente>
-    <razão_social_emitente>G DE BORBA - MARISKAP</razão_social_emitente>
-    <inscrição_estadual_emitente>1016202980</inscrição_estadual_emitente>
+    <raz_o_social_emitente>G DE BORBA - MARISKAP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1016202980</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>CURITIBA</município_emitente>
-    <cnpj_destinatário>394429005927</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CURITIBA</munic_pio_emitente>
+    <cnpj_destinat_rio>394429005927</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>TAPETE PERSONALIZADO 2.00X1.00</descrição_do_produto_serviço>
-    <código_ncm_sh>57050000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>TAPETE PERSONALIZADO 2.00X1.00</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>57050000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros tapetes e revestimentos para pisos (pavimentos), de matérias têxteis, mesmo confeccionados</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>8.57</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>210.03</valor_unitário>
+    <valor_unit_rio>210.03</valor_unit_rio>
     <valor_total>1799.96</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050185297680543778521662599995560349962399</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3386</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-05-20 03:43:11</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3386</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 03:43:11</data_emiss_o>
     <cpf_cnpj_emitente>78796778000146</cpf_cnpj_emitente>
-    <razão_social_emitente>G DE BORBA - MARISKAP</razão_social_emitente>
-    <inscrição_estadual_emitente>1016202980</inscrição_estadual_emitente>
+    <raz_o_social_emitente>G DE BORBA - MARISKAP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1016202980</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>CURITIBA</município_emitente>
-    <cnpj_destinatário>394429005927</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CURITIBA</munic_pio_emitente>
+    <cnpj_destinat_rio>394429005927</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>TAPETE PERSONALIZADO 2.00X1.00</descrição_do_produto_serviço>
-    <código_ncm_sh>57050000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>TAPETE PERSONALIZADO 2.00X1.00</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>57050000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros tapetes e revestimentos para pisos (pavimentos), de matérias têxteis, mesmo confeccionados</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>2.28</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>201.95</valor_unitário>
+    <valor_unit_rio>201.95</valor_unit_rio>
     <valor_total>460.45</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050185297680543778521662599995560349962399</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3386</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-05-20 03:43:11</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3386</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 03:43:11</data_emiss_o>
     <cpf_cnpj_emitente>78796778000146</cpf_cnpj_emitente>
-    <razão_social_emitente>G DE BORBA - MARISKAP</razão_social_emitente>
-    <inscrição_estadual_emitente>1016202980</inscrição_estadual_emitente>
+    <raz_o_social_emitente>G DE BORBA - MARISKAP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1016202980</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>CURITIBA</município_emitente>
-    <cnpj_destinatário>394429005927</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CURITIBA</munic_pio_emitente>
+    <cnpj_destinat_rio>394429005927</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>TAPETE PERSONALIZADO 2.00X1.00</descrição_do_produto_serviço>
-    <código_ncm_sh>57050000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>TAPETE PERSONALIZADO 2.00X1.00</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>57050000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros tapetes e revestimentos para pisos (pavimentos), de matérias têxteis, mesmo confeccionados</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>7.45</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>66.85</valor_unitário>
+    <valor_unit_rio>66.85</valor_unit_rio>
     <valor_total>498.03</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050182721112530397946836937732399569641897</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>5265</número>
-    <natureza_da_operação>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_operação>
-    <data_emissão>2024-05-18 05:05:10</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>5265</n_mero>
+    <natureza_da_opera_o>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_opera_o>
+    <data_emiss_o>2024-05-18 05:05:10</data_emiss_o>
     <cpf_cnpj_emitente>3508097000217</cpf_cnpj_emitente>
-    <razão_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</razão_social_emitente>
-    <inscrição_estadual_emitente>795438273115</inscrição_estadual_emitente>
+    <raz_o_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>795438273115</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAMPINAS</município_emitente>
-    <cnpj_destinatário>10727655000543</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAMPINAS</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000543</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>HARDWARE, ROTEADOR (ROUTER), marca: JUNIPER, modelo: SRX345-SYS-JE-2, número de série: DS3720AN0116</descrição_do_produto_serviço>
-    <código_ncm_sh>85176249</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>HARDWARE, ROTEADOR (ROUTER), marca: JUNIPER, modelo: SRX345-SYS-JE-2, número de série: DS3720AN0116</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>85176249</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros roteadores digitais</ncm_sh_tipo_de_produto>
     <cfop>6949</cfop>
     <quantidade>0.97</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>5878.44</valor_unitário>
+    <valor_unit_rio>5878.44</valor_unit_rio>
     <valor_total>5702.09</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050109302857647821390299500425816728398320</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>113875</número>
-    <natureza_da_operação>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2024-05-01 03:11:44</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>113875</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2024-05-01 03:11:44</data_emiss_o>
     <cpf_cnpj_emitente>11319557000378</cpf_cnpj_emitente>
-    <razão_social_emitente>DENTECK LTDA - FILIAL03 MS</razão_social_emitente>
-    <inscrição_estadual_emitente>284069817</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DENTECK LTDA - FILIAL03 MS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284069817</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>MUNDO NOVO</município_emitente>
-    <cnpj_destinatário>10727655000209</cnpj_destinatário>
-    <nome_destinatário>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MUNDO NOVO</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000209</cnpj_destinat_rio>
+    <nome_destinat_rio>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>AR CONDICIONADO HW INVERTER AGRATTO 24000 S/F 220V R32 LIV O.C.: 2023NE442</descrição_do_produto_serviço>
-    <código_ncm_sh>84151011</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>AR CONDICIONADO HW INVERTER AGRATTO 24000 S/F 220V R32 LIV O.C.: 2023NE442</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84151011</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Aparelhos de ar condicionado do tipo split-system (sistema com elementos separados), com capacidade inferior ou igual a 30.000 frigorias/hora, utilizados em paredes ou janelas</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>1.79</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3953.53</valor_unitário>
+    <valor_unit_rio>3953.53</valor_unit_rio>
     <valor_total>7076.82</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050109302857647821390299500425816728398320</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>113875</número>
-    <natureza_da_operação>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2024-05-01 03:11:44</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>113875</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2024-05-01 03:11:44</data_emiss_o>
     <cpf_cnpj_emitente>11319557000378</cpf_cnpj_emitente>
-    <razão_social_emitente>DENTECK LTDA - FILIAL03 MS</razão_social_emitente>
-    <inscrição_estadual_emitente>284069817</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DENTECK LTDA - FILIAL03 MS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284069817</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>MUNDO NOVO</município_emitente>
-    <cnpj_destinatário>10727655000209</cnpj_destinatário>
-    <nome_destinatário>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MUNDO NOVO</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000209</cnpj_destinat_rio>
+    <nome_destinat_rio>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>AR CONDICIONADO HW INVERTER AGRATTO 30000 S/F 220V R-32 NEO O.C.: 2023NE442</descrição_do_produto_serviço>
-    <código_ncm_sh>84151011</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>AR CONDICIONADO HW INVERTER AGRATTO 30000 S/F 220V R-32 NEO O.C.: 2023NE442</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84151011</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Aparelhos de ar condicionado do tipo split-system (sistema com elementos separados), com capacidade inferior ou igual a 30.000 frigorias/hora, utilizados em paredes ou janelas</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>4.27</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>5385.86</valor_unitário>
+    <valor_unit_rio>5385.86</valor_unit_rio>
     <valor_total>22997.62</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050102934203634714186410907097961422548143</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>715</número>
-    <natureza_da_operação>Venda de mercadoria</natureza_da_operação>
-    <data_emissão>2024-05-05 04:39:29</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>715</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria</natureza_da_opera_o>
+    <data_emiss_o>2024-05-05 04:39:29</data_emiss_o>
     <cpf_cnpj_emitente>13158576000123</cpf_cnpj_emitente>
-    <razão_social_emitente>F C NICOLAU EQUIPAMENTOS PARA LABORATÓRIO LTDA.</razão_social_emitente>
-    <inscrição_estadual_emitente>206868421110</inscrição_estadual_emitente>
+    <raz_o_social_emitente>F C NICOLAU EQUIPAMENTOS PARA LABORATÓRIO LTDA.</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>206868421110</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>BARUERI</município_emitente>
-    <cnpj_destinatário>396895006247</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>BARUERI</munic_pio_emitente>
+    <cnpj_destinat_rio>396895006247</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>Homogeneizador múltiplo de amostras</descrição_do_produto_serviço>
-    <código_ncm_sh>84798210</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>Homogeneizador múltiplo de amostras</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84798210</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros misturadores</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>1.0</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>37747.57</valor_unitário>
+    <valor_unit_rio>37747.57</valor_unit_rio>
     <valor_total>37747.57</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050136464767207201744935895487534738960595</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>5265</número>
-    <natureza_da_operação>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_operação>
-    <data_emissão>2024-05-16 23:25:21</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>5265</n_mero>
+    <natureza_da_opera_o>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_opera_o>
+    <data_emiss_o>2024-05-16 23:25:21</data_emiss_o>
     <cpf_cnpj_emitente>3508097000217</cpf_cnpj_emitente>
-    <razão_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</razão_social_emitente>
-    <inscrição_estadual_emitente>795438273115</inscrição_estadual_emitente>
+    <raz_o_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>795438273115</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAMPINAS</município_emitente>
-    <cnpj_destinatário>10727655000543</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAMPINAS</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000543</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>HARDWARE, ROTEADOR (ROUTER), marca: JUNIPER, modelo: SRX345-SYS-JE-2, número de série: DS3720AN0116</descrição_do_produto_serviço>
-    <código_ncm_sh>85176249</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>HARDWARE, ROTEADOR (ROUTER), marca: JUNIPER, modelo: SRX345-SYS-JE-2, número de série: DS3720AN0116</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>85176249</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros roteadores digitais</ncm_sh_tipo_de_produto>
     <cfop>6949</cfop>
     <quantidade>0.96</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4717.14</valor_unitário>
+    <valor_unit_rio>4717.14</valor_unit_rio>
     <valor_total>4528.45</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050106856767337783314202921343413843001029</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19486</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2024-05-20 04:25:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19486</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 04:25:50</data_emiss_o>
     <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
-    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <raz_o_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77387250</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394502000144</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394502000144</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>TRIGO PARA KIBE 500G</descrição_do_produto_serviço>
-    <código_ncm_sh>19043000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>TRIGO PARA KIBE 500G</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>19043000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Trigo bulgur</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>162.33</quantidade>
     <unidade>PCT</unidade>
-    <valor_unitário>3.71</valor_unitário>
+    <valor_unit_rio>3.71</valor_unit_rio>
     <valor_total>602.24</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050106856767337783314202921343413843001029</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19486</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2024-05-20 04:25:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19486</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 04:25:50</data_emiss_o>
     <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
-    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <raz_o_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77387250</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394502000144</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394502000144</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>IOGURTE</descrição_do_produto_serviço>
-    <código_ncm_sh>4032000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>IOGURTE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>4032000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5405</cfop>
     <quantidade>137.62</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3.1</valor_unitário>
+    <valor_unit_rio>3.1</valor_unit_rio>
     <valor_total>426.62</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050106856767337783314202921343413843001029</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19486</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2024-05-20 04:25:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19486</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 04:25:50</data_emiss_o>
     <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
-    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <raz_o_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77387250</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394502000144</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394502000144</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>OVO CODORNA CONSERVA</descrição_do_produto_serviço>
-    <código_ncm_sh>4089900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>OVO CODORNA CONSERVA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>4089900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros ovos de aves, sem casca, frescos, cozidos em água, etc</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>46.59</quantidade>
     <unidade>PCT</unidade>
-    <valor_unitário>21.15</valor_unitário>
+    <valor_unit_rio>21.15</valor_unit_rio>
     <valor_total>985.38</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24050106856767337783314202921343413843001029</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19486</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2024-05-20 04:25:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19486</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 04:25:50</data_emiss_o>
     <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
-    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <raz_o_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77387250</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394502000144</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394502000144</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>AZEITONA VERDE 2KG</descrição_do_produto_serviço>
-    <código_ncm_sh>7112010</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>AZEITONA VERDE 2KG</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7112010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Azeitonas conservadas com água salgada</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>81.87</quantidade>
     <unidade>BD</unidade>
-    <valor_unitário>33.54</valor_unitário>
+    <valor_unit_rio>33.54</valor_unit_rio>
     <valor_total>2745.92</valor_total>
   </registro_item>
 </nfe_itens>

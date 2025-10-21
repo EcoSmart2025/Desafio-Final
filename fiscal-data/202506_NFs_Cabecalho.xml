@@ -3,185 +3,185 @@
   <registro_cabecalho>
     <chave_de_acesso>25060107063592183502860322047445718435444798</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4791</número>
-    <natureza_da_operação>Venda a prazo</natureza_da_operação>
-    <data_emissão>2025-06-10 17:26:57</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4791</n_mero>
+    <natureza_da_opera_o>Venda a prazo</natureza_da_opera_o>
+    <data_emiss_o>2025-06-10 17:26:57</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-10 17:31:57</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>33180160000119</cpf_cnpj_emitente>
-    <razão_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>34110590060</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>34110590060</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>JUIZ DE FORA</município_emitente>
-    <cnpj_destinatário>9595886000138</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>JUIZ DE FORA</munic_pio_emitente>
+    <cnpj_destinat_rio>9595886000138</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1446.0</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060136383608711171553218951413313536240340</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>113875</número>
-    <natureza_da_operação>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2025-06-29 17:56:12</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>113875</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2025-06-29 17:56:12</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-29 18:02:12</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>11319557000378</cpf_cnpj_emitente>
-    <razão_social_emitente>DENTECK LTDA - FILIAL03 MS</razão_social_emitente>
-    <inscrição_estadual_emitente>284069817</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DENTECK LTDA - FILIAL03 MS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284069817</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>MUNDO NOVO</município_emitente>
-    <cnpj_destinatário>10727655000209</cnpj_destinatário>
-    <nome_destinatário>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MUNDO NOVO</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000209</cnpj_destinat_rio>
+    <nome_destinat_rio>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>29431.94</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-23 14:01:42</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>9038.02</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060176057451072976976479485289504924294343</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22661</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2025-06-07 23:30:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22661</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2025-06-07 23:30:16</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-07 23:39:16</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>24365710000183</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>24365710000183</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>75.46</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060158678692793836291888254348878992376154</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-06-02 23:23:24</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-06-02 23:23:24</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-02 23:25:24</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>819.83</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060100638732907203609727021604879951040317</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>1105</número>
-    <natureza_da_operação>Vendas</natureza_da_operação>
-    <data_emissão>2025-06-30 12:26:47</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>1105</n_mero>
+    <natureza_da_opera_o>Vendas</natureza_da_opera_o>
+    <data_emiss_o>2025-06-30 12:26:47</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-30 12:29:47</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>32366879000186</cpf_cnpj_emitente>
-    <razão_social_emitente>EDGAR HERRERA PEREIRA</razão_social_emitente>
-    <inscrição_estadual_emitente>633837572112</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EDGAR HERRERA PEREIRA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>633837572112</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SANTOS</município_emitente>
-    <cnpj_destinatário>9577973000162</cnpj_destinatário>
-    <nome_destinatário>SEGUNDO GRUPO DE ARTILHARIA ANTIAEREA</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SANTOS</munic_pio_emitente>
+    <cnpj_destinat_rio>9577973000162</cnpj_destinat_rio>
+    <nome_destinat_rio>SEGUNDO GRUPO DE ARTILHARIA ANTIAEREA</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1553.43</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060106192897710763591989389007995807187659</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>4</série>
-    <número>135717</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_operação>
-    <data_emissão>2025-06-05 18:22:53</data_emissão>
+    <s_rie>4</s_rie>
+    <n_mero>135717</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_opera_o>
+    <data_emiss_o>2025-06-05 18:22:53</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-05 18:30:53</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>58309709000153</cpf_cnpj_emitente>
-    <razão_social_emitente>CHEMYUNION LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>669166739119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>CHEMYUNION LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>669166739119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SOROCABA</município_emitente>
-    <cnpj_destinatário>33781055004980</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SOROCABA</munic_pio_emitente>
+    <cnpj_destinat_rio>33781055004980</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1360424.21</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25060153720178804145615991579690672409362109</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>125025</número>
-    <natureza_da_operação>VENDAS DE PRODUCAO DO ESTAB</natureza_da_operação>
-    <data_emissão>2025-06-14 11:24:27</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>125025</n_mero>
+    <natureza_da_opera_o>VENDAS DE PRODUCAO DO ESTAB</natureza_da_opera_o>
+    <data_emiss_o>2025-06-14 11:24:27</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-06-14 11:25:27</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>01139242000123</cpf_cnpj_emitente>
-    <razão_social_emitente>JOSE BAUER DE ATAYDE &amp; CIA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>760001231110</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JOSE BAUER DE ATAYDE &amp; CIA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>760001231110</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SANTO ANTONIO DO ARACANGUA</município_emitente>
-    <cnpj_destinatário>29979036116017</cnpj_destinatário>
-    <nome_destinatário>SUPERINTENDENCIA REGIONAL SUDESTE I</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SANTO ANTONIO DO ARACANGUA</munic_pio_emitente>
+    <cnpj_destinat_rio>29979036116017</cnpj_destinat_rio>
+    <nome_destinat_rio>SUPERINTENDENCIA REGIONAL SUDESTE I</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1874.56</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

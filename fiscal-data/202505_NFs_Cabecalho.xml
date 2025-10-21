@@ -3,139 +3,139 @@
   <registro_cabecalho>
     <chave_de_acesso>25050164943624935376817358539567488103718648</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>342</número>
-    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
-    <data_emissão>2025-05-12 07:53:49</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>342</n_mero>
+    <natureza_da_opera_o>Venda Fora do Estado</natureza_da_opera_o>
+    <data_emiss_o>2025-05-12 07:53:49</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-05-12 07:57:49</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>42933602000141</cpf_cnpj_emitente>
-    <razão_social_emitente>ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>261222082</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>261222082</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>SANTO AMARO DA IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10673078000120</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA- IFMS</nome_destinatário>
-    <uf_destinatário>MS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SANTO AMARO DA IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10673078000120</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA- IFMS</nome_destinat_rio>
+    <uf_destinat_rio>MS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>589.03</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25050153995162890830525784525279951407380034</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4162</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2025-05-07 01:26:15</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4162</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2025-05-07 01:26:15</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-05-07 01:36:15</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>21793208000185</cpf_cnpj_emitente>
-    <razão_social_emitente>DF MAQUINAS E FERRAMENTAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>771188900164</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DF MAQUINAS E FERRAMENTAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>771188900164</inscri_o_estadual_emitente>
     <uf_emitente>DF</uf_emitente>
-    <município_emitente>BRASILIA</município_emitente>
-    <cnpj_destinatário>394544004504</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE</nome_destinatário>
-    <uf_destinatário>MT</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>BRASILIA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004504</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE</nome_destinat_rio>
+    <uf_destinat_rio>MT</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>3346.37</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25050150410731207957951920718759374116668509</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369180</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2025-05-04 19:48:38</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369180</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2025-05-04 19:48:38</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-05-04 19:50:38</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>278.24</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25050158485482836907036842484946515781494870</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>1027</número>
-    <natureza_da_operação>5102</natureza_da_operação>
-    <data_emissão>2025-05-25 12:11:45</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>1027</n_mero>
+    <natureza_da_opera_o>5102</natureza_da_opera_o>
+    <data_emiss_o>2025-05-25 12:11:45</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-05-25 12:16:45</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>07556125000141</cpf_cnpj_emitente>
-    <razão_social_emitente>F C SILVA COMERCIO DE INFORMATICA</razão_social_emitente>
-    <inscrição_estadual_emitente>77969845</inscrição_estadual_emitente>
+    <raz_o_social_emitente>F C SILVA COMERCIO DE INFORMATICA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77969845</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>VOLTA REDONDA</município_emitente>
-    <cnpj_destinatário>394502054589</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>VOLTA REDONDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394502054589</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>538.06</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25050159582464666967714449191310272655222357</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>366295</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2025-05-08 02:18:49</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>366295</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2025-05-08 02:18:49</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-05-08 02:27:49</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>128.25</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25050185795926855145422020030634977819903169</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-05-21 08:40:38</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-05-21 08:40:38</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-05-21 08:49:38</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>841.79</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

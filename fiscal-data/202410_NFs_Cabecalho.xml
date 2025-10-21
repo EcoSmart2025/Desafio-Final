@@ -3,139 +3,139 @@
   <registro_cabecalho>
     <chave_de_acesso>24100181726494763512376586724511717008549853</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>479</número>
-    <natureza_da_operação>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2024-10-17 10:27:08</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>479</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2024-10-17 10:27:08</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-10-17 10:30:08</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>30102251000148</cpf_cnpj_emitente>
-    <razão_social_emitente>WIDETECH AUTOMACAO LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>9078997998</inscrição_estadual_emitente>
+    <raz_o_social_emitente>WIDETECH AUTOMACAO LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>9078997998</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>ARAUCARIA</município_emitente>
-    <cnpj_destinatário>10695891000100</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO TRIANG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>ARAUCARIA</munic_pio_emitente>
+    <cnpj_destinat_rio>10695891000100</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO TRIANG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>933.2</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-10-21 22:32:16</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>5753.48</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-10-29 11:15:10</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>198.03</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24100151780079348941409185309409645610005638</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-10-31 21:45:10</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-10-31 21:45:10</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-10-31 21:53:10</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>50506565000113</cpf_cnpj_emitente>
-    <razão_social_emitente>OGATTI IMPORTS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>821588200151</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OGATTI IMPORTS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>821588200151</inscri_o_estadual_emitente>
     <uf_emitente>DF</uf_emitente>
-    <município_emitente>BRASILIA</município_emitente>
-    <cnpj_destinatário>9585272000175</cnpj_destinatário>
-    <nome_destinatário>2 REGIMENTO DE CAVALARIA DE GUARDAS</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>BRASILIA</munic_pio_emitente>
+    <cnpj_destinat_rio>9585272000175</cnpj_destinat_rio>
+    <nome_destinat_rio>2 REGIMENTO DE CAVALARIA DE GUARDAS</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>9918.82</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24100150950590783981262046762220600312164702</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>2600094</número>
-    <natureza_da_operação>S</natureza_da_operação>
-    <data_emissão>2024-10-27 10:09:15</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>2600094</n_mero>
+    <natureza_da_opera_o>S</natureza_da_opera_o>
+    <data_emiss_o>2024-10-27 10:09:15</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-10-27 10:12:15</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>***.152.402-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ANTONIO DE PAIVA COSTA</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ANTONIO DE PAIVA COSTA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PA</uf_emitente>
-    <município_emitente>OBIDOS</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OBIDOS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>2088.51</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24100177836788036217497220968644739262343459</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4791</número>
-    <natureza_da_operação>Venda a prazo</natureza_da_operação>
-    <data_emissão>2024-10-30 08:23:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4791</n_mero>
+    <natureza_da_opera_o>Venda a prazo</natureza_da_opera_o>
+    <data_emiss_o>2024-10-30 08:23:16</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-10-30 08:30:16</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>33180160000119</cpf_cnpj_emitente>
-    <razão_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>34110590060</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>34110590060</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>JUIZ DE FORA</município_emitente>
-    <cnpj_destinatário>9595886000138</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>JUIZ DE FORA</munic_pio_emitente>
+    <cnpj_destinat_rio>9595886000138</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1041.17</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

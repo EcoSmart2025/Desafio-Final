@@ -3,1944 +3,1944 @@
   <registro_item>
     <chave_de_acesso>24010191258708521861859873812113835662704397</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>21435</número>
-    <natureza_da_operação>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS EM OP</natureza_da_operação>
-    <data_emissão>2024-01-11 10:56:51</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>21435</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS EM OP</natureza_da_opera_o>
+    <data_emiss_o>2024-01-11 10:56:51</data_emiss_o>
     <cpf_cnpj_emitente>14124286000121</cpf_cnpj_emitente>
-    <razão_social_emitente>MAVI CONSTRUCOES - LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>65721551</inscrição_estadual_emitente>
+    <raz_o_social_emitente>MAVI CONSTRUCOES - LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>65721551</inscri_o_estadual_emitente>
     <uf_emitente>CE</uf_emitente>
-    <município_emitente>FORTALEZA</município_emitente>
-    <cnpj_destinatário>394502011693</cnpj_destinatário>
-    <nome_destinatário>ESCOLA DE APRENDIZES MARINHEIROS DO CEARA</nome_destinatário>
-    <uf_destinatário>CE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>FORTALEZA</munic_pio_emitente>
+    <cnpj_destinat_rio>394502011693</cnpj_destinat_rio>
+    <nome_destinat_rio>ESCOLA DE APRENDIZES MARINHEIROS DO CEARA</nome_destinat_rio>
+    <uf_destinat_rio>CE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>DISJUNTOR TRIPOLAR 125W CAIXA MOLDADA</descrição_do_produto_serviço>
-    <código_ncm_sh>85362000</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>DISJUNTOR TRIPOLAR 125W CAIXA MOLDADA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>85362000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Disjuntores, para uma tensão não superior a 1.000 V</ncm_sh_tipo_de_produto>
     <cfop>5405</cfop>
     <quantidade>0.13</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>98.4</valor_unitário>
+    <valor_unit_rio>98.4</valor_unit_rio>
     <valor_total>12.79</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010190925661850628761485749846987371481234</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>674</número>
-    <natureza_da_operação>Remessa para industrializacao</natureza_da_operação>
-    <data_emissão>2024-01-10 08:54:17</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>674</n_mero>
+    <natureza_da_opera_o>Remessa para industrializacao</natureza_da_opera_o>
+    <data_emiss_o>2024-01-10 08:54:17</data_emiss_o>
     <cpf_cnpj_emitente>23886799000160</cpf_cnpj_emitente>
-    <razão_social_emitente>PENTAGGONO INDUSTRIAL EXPORTADORA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>625685280091</inscrição_estadual_emitente>
+    <raz_o_social_emitente>PENTAGGONO INDUSTRIAL EXPORTADORA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>625685280091</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>402552001289</cnpj_destinatário>
-    <nome_destinatário>CENTRO DE DESENVOLVIMENTO DA TECNOLOGIA NUCLEAR</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>402552001289</cnpj_destinat_rio>
+    <nome_destinat_rio>CENTRO DE DESENVOLVIMENTO DA TECNOLOGIA NUCLEAR</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>QUARTZO BRUTO</descrição_do_produto_serviço>
-    <código_ncm_sh>71031000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>QUARTZO BRUTO</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>71031000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas</ncm_sh_tipo_de_produto>
     <cfop>5901</cfop>
     <quantidade>223.57</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>8.46</valor_unitário>
+    <valor_unit_rio>8.46</valor_unit_rio>
     <valor_total>1891.4</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010144671536382633171188164318243170555417</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>61513</número>
-    <natureza_da_operação>VENDA DENTRO DO ESTADO</natureza_da_operação>
-    <data_emissão>2024-01-06 14:48:30</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>61513</n_mero>
+    <natureza_da_opera_o>VENDA DENTRO DO ESTADO</natureza_da_opera_o>
+    <data_emiss_o>2024-01-06 14:48:30</data_emiss_o>
     <cpf_cnpj_emitente>24875483000136</cpf_cnpj_emitente>
-    <razão_social_emitente>ESSENCIAL RIO DISTRIB. DE PROD. MEDICOS E HOSPITALARES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>87152596</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ESSENCIAL RIO DISTRIB. DE PROD. MEDICOS E HOSPITALARES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>87152596</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>NOVA IGUACU</município_emitente>
-    <cnpj_destinatário>9609235000230</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL CENTRAL DO EXERCITO</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NOVA IGUACU</munic_pio_emitente>
+    <cnpj_destinat_rio>9609235000230</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL CENTRAL DO EXERCITO</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>Claritromicina, dosagem:500 mg, apresentacao:injetavel</descrição_do_produto_serviço>
-    <código_ncm_sh>30042029</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>Claritromicina, dosagem:500 mg, apresentacao:injetavel</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30042029</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros medicamentos contendo macrolídeos/derivados, em doses</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>43.75</quantidade>
     <unidade>FRASCO</unidade>
-    <valor_unitário>8.89</valor_unitário>
+    <valor_unit_rio>8.89</valor_unit_rio>
     <valor_total>388.94</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010104076656189476594105135371078631615098</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>4</série>
-    <número>38329</número>
-    <natureza_da_operação>Venda combust. lub Adq. Terceiros</natureza_da_operação>
-    <data_emissão>2024-01-24 10:49:47</data_emissão>
+    <s_rie>4</s_rie>
+    <n_mero>38329</n_mero>
+    <natureza_da_opera_o>Venda combust. lub Adq. Terceiros</natureza_da_opera_o>
+    <data_emiss_o>2024-01-24 10:49:47</data_emiss_o>
     <cpf_cnpj_emitente>10473085000189</cpf_cnpj_emitente>
-    <razão_social_emitente>POSTO DE COMBUSTIVEL BECHI LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>1747321</inscrição_estadual_emitente>
+    <raz_o_social_emitente>POSTO DE COMBUSTIVEL BECHI LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1747321</inscri_o_estadual_emitente>
     <uf_emitente>RO</uf_emitente>
-    <município_emitente>CACOAL</município_emitente>
-    <cnpj_destinatário>33787094003165</cnpj_destinatário>
-    <nome_destinatário>FUNDACAO INSTIT BRAS DE GEOGRAFIA E ESTATISTICA IBGE</nome_destinatário>
-    <uf_destinatário>RO</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>CACOAL</munic_pio_emitente>
+    <cnpj_destinat_rio>33787094003165</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDACAO INSTIT BRAS DE GEOGRAFIA E ESTATISTICA IBGE</nome_destinat_rio>
+    <uf_destinat_rio>RO</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>DIESEL S-10</descrição_do_produto_serviço>
-    <código_ncm_sh>27101921</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>DIESEL S-10</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>27101921</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Gasóleo (óleo diesel)</ncm_sh_tipo_de_produto>
     <cfop>5656</cfop>
     <quantidade>26.37</quantidade>
     <unidade>LITRO</unidade>
-    <valor_unitário>3.07</valor_unitário>
+    <valor_unit_rio>3.07</valor_unit_rio>
     <valor_total>80.96</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>2023-EU-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-EU-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.48</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.61</valor_unitário>
+    <valor_unit_rio>2.61</valor_unit_rio>
     <valor_total>1.25</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>2023-O CIRCO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O CIRCO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.17</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.29</valor_unitário>
+    <valor_unit_rio>1.29</valor_unit_rio>
     <valor_total>0.22</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>2023-ESTE E O LOBO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-ESTE E O LOBO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.45</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4.07</valor_unitário>
+    <valor_unit_rio>4.07</valor_unit_rio>
     <valor_total>1.83</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>2023-QUERO COLO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-QUERO COLO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.34</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.18</valor_unitário>
+    <valor_unit_rio>2.18</valor_unit_rio>
     <valor_total>0.74</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>2023-ASSIM COMO VOCE-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-ASSIM COMO VOCE-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.47</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.6</valor_unitário>
+    <valor_unit_rio>0.6</valor_unit_rio>
     <valor_total>0.28</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>6</número_produto>
-    <descrição_do_produto_serviço>2023-O GATO VIU-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>6</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O GATO VIU-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.46</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3.38</valor_unitário>
+    <valor_unit_rio>3.38</valor_unit_rio>
     <valor_total>1.55</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>7</número_produto>
-    <descrição_do_produto_serviço>2023-POUCO POUCO MUITO MUITO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>7</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-POUCO POUCO MUITO MUITO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.38</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.62</valor_unitário>
+    <valor_unit_rio>0.62</valor_unit_rio>
     <valor_total>0.24</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>8</número_produto>
-    <descrição_do_produto_serviço>2023-E VOCE-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>8</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-E VOCE-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.2</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.54</valor_unitário>
+    <valor_unit_rio>0.54</valor_unit_rio>
     <valor_total>0.11</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>9</número_produto>
-    <descrição_do_produto_serviço>2023-PEDRO VIRA PORCO ESPINHO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>9</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-PEDRO VIRA PORCO ESPINHO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.45</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.93</valor_unitário>
+    <valor_unit_rio>1.93</valor_unit_rio>
     <valor_total>0.87</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>10</número_produto>
-    <descrição_do_produto_serviço>2023-BETINA QUERO-QUERO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>10</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-BETINA QUERO-QUERO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.32</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4.22</valor_unitário>
+    <valor_unit_rio>4.22</valor_unit_rio>
     <valor_total>1.35</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>11</número_produto>
-    <descrição_do_produto_serviço>2023-ALICE VE-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>11</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-ALICE VE-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.24</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.73</valor_unitário>
+    <valor_unit_rio>0.73</valor_unit_rio>
     <valor_total>0.18</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>12</número_produto>
-    <descrição_do_produto_serviço>2023-O TUPI QUE VOCE FALA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>12</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O TUPI QUE VOCE FALA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.31</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.73</valor_unitário>
+    <valor_unit_rio>0.73</valor_unit_rio>
     <valor_total>0.23</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>13</número_produto>
-    <descrição_do_produto_serviço>2023-O MENINO QUE QUERIA IR-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>13</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O MENINO QUE QUERIA IR-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.33</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.38</valor_unitário>
+    <valor_unit_rio>1.38</valor_unit_rio>
     <valor_total>0.46</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>14</número_produto>
-    <descrição_do_produto_serviço>2023-ZIM TAM TUM-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>14</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-ZIM TAM TUM-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.17</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.27</valor_unitário>
+    <valor_unit_rio>1.27</valor_unit_rio>
     <valor_total>0.22</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>15</número_produto>
-    <descrição_do_produto_serviço>2023-BOLA VERMELHA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>15</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-BOLA VERMELHA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.1</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.46</valor_unitário>
+    <valor_unit_rio>1.46</valor_unit_rio>
     <valor_total>0.15</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>16</número_produto>
-    <descrição_do_produto_serviço>2023-JA SOU GRANDE OLHA O QUE SEI FAZER-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>16</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-JA SOU GRANDE OLHA O QUE SEI FAZER-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.21</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.08</valor_unitário>
+    <valor_unit_rio>1.08</valor_unit_rio>
     <valor_total>0.23</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>17</número_produto>
-    <descrição_do_produto_serviço>2023-MEDO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>17</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-MEDO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.45</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.12</valor_unitário>
+    <valor_unit_rio>1.12</valor_unit_rio>
     <valor_total>0.5</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>18</número_produto>
-    <descrição_do_produto_serviço>2023-BEM LA NO ALTO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>18</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-BEM LA NO ALTO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.38</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.53</valor_unitário>
+    <valor_unit_rio>1.53</valor_unit_rio>
     <valor_total>0.58</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>19</número_produto>
-    <descrição_do_produto_serviço>2023-BICHINHOS-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>19</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-BICHINHOS-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.46</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.35</valor_unitário>
+    <valor_unit_rio>1.35</valor_unit_rio>
     <valor_total>0.62</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>20</número_produto>
-    <descrição_do_produto_serviço>2023-TEM BICHO QUE GOSTA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>20</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-TEM BICHO QUE GOSTA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.16</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.24</valor_unitário>
+    <valor_unit_rio>2.24</valor_unit_rio>
     <valor_total>0.36</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>21</número_produto>
-    <descrição_do_produto_serviço>2023-ONDE ESTA A OVELHA VERDE-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>21</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-ONDE ESTA A OVELHA VERDE-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.46</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.47</valor_unitário>
+    <valor_unit_rio>0.47</valor_unit_rio>
     <valor_total>0.22</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>22</número_produto>
-    <descrição_do_produto_serviço>2023-O LIVRO DORME-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>22</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O LIVRO DORME-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.43</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.02</valor_unitário>
+    <valor_unit_rio>1.02</valor_unit_rio>
     <valor_total>0.44</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>23</número_produto>
-    <descrição_do_produto_serviço>2023-BLIM BLAO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>23</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-BLIM BLAO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.37</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.63</valor_unitário>
+    <valor_unit_rio>1.63</valor_unit_rio>
     <valor_total>0.6</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>24</número_produto>
-    <descrição_do_produto_serviço>2023-A PINTA FUJONA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>24</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-A PINTA FUJONA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.25</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.89</valor_unitário>
+    <valor_unit_rio>1.89</valor_unit_rio>
     <valor_total>0.47</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>25</número_produto>
-    <descrição_do_produto_serviço>2023-NHAC-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>25</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-NHAC-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.28</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.49</valor_unitário>
+    <valor_unit_rio>1.49</valor_unit_rio>
     <valor_total>0.42</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>26</número_produto>
-    <descrição_do_produto_serviço>2023-CACHORROS NAO DANCAM BALE-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>26</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-CACHORROS NAO DANCAM BALE-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.44</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3.01</valor_unitário>
+    <valor_unit_rio>3.01</valor_unit_rio>
     <valor_total>1.32</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>27</número_produto>
-    <descrição_do_produto_serviço>2023-CABE AQUI NA MINHA MAO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>27</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-CABE AQUI NA MINHA MAO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.41</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4.15</valor_unitário>
+    <valor_unit_rio>4.15</valor_unit_rio>
     <valor_total>1.7</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>28</número_produto>
-    <descrição_do_produto_serviço>2023-RIMARINHAS-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>28</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-RIMARINHAS-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.49</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.1</valor_unitário>
+    <valor_unit_rio>2.1</valor_unit_rio>
     <valor_total>1.03</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>29</número_produto>
-    <descrição_do_produto_serviço>2023-PACA TATU CUTIA SIM-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>29</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-PACA TATU CUTIA SIM-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.36</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.74</valor_unitário>
+    <valor_unit_rio>0.74</valor_unit_rio>
     <valor_total>0.27</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>30</número_produto>
-    <descrição_do_produto_serviço>2023-PEQUENO DICIONARIO DE COISAS BOAS BONITAS E GOSTOSAS-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>30</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-PEQUENO DICIONARIO DE COISAS BOAS BONITAS E GOSTOSAS-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.4</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3.24</valor_unitário>
+    <valor_unit_rio>3.24</valor_unit_rio>
     <valor_total>1.3</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>31</número_produto>
-    <descrição_do_produto_serviço>2023-VO PARA DE FOTOGRAFAR-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>31</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-VO PARA DE FOTOGRAFAR-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.31</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.44</valor_unitário>
+    <valor_unit_rio>1.44</valor_unit_rio>
     <valor_total>0.45</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>32</número_produto>
-    <descrição_do_produto_serviço>2023-MARCO QUERIA DORMIR-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>32</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-MARCO QUERIA DORMIR-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.13</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.72</valor_unitário>
+    <valor_unit_rio>0.72</valor_unit_rio>
     <valor_total>0.09</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>33</número_produto>
-    <descrição_do_produto_serviço>2023-TO INDO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>33</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-TO INDO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.26</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.28</valor_unitário>
+    <valor_unit_rio>2.28</valor_unit_rio>
     <valor_total>0.59</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>34</número_produto>
-    <descrição_do_produto_serviço>2023-COME MENINO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>34</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-COME MENINO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.35</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.57</valor_unitário>
+    <valor_unit_rio>0.57</valor_unit_rio>
     <valor_total>0.2</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>35</número_produto>
-    <descrição_do_produto_serviço>2023-QUAL E O MONSTRO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>35</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-QUAL E O MONSTRO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.49</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.56</valor_unitário>
+    <valor_unit_rio>1.56</valor_unit_rio>
     <valor_total>0.76</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>36</número_produto>
-    <descrição_do_produto_serviço>2023-CADE O PINTINHO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>36</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-CADE O PINTINHO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.14</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.9</valor_unitário>
+    <valor_unit_rio>1.9</valor_unit_rio>
     <valor_total>0.27</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>37</número_produto>
-    <descrição_do_produto_serviço>2023-PE DE BICHO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>37</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-PE DE BICHO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.2</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.72</valor_unitário>
+    <valor_unit_rio>2.72</valor_unit_rio>
     <valor_total>0.54</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>38</número_produto>
-    <descrição_do_produto_serviço>2023-GATO PRA CA RATO PRA LA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>38</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-GATO PRA CA RATO PRA LA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.28</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.4</valor_unitário>
+    <valor_unit_rio>2.4</valor_unit_rio>
     <valor_total>0.67</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>39</número_produto>
-    <descrição_do_produto_serviço>2024-QUE BICHO ENGRACADO-2021</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>39</n_mero_produto>
+    <descri_o_do_produto_servi_o>2024-QUE BICHO ENGRACADO-2021</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.5</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.2</valor_unitário>
+    <valor_unit_rio>2.2</valor_unit_rio>
     <valor_total>1.1</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>40</número_produto>
-    <descrição_do_produto_serviço>2023-O BUFALO QUE SO QUERIA FICAR ABRACADO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>40</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O BUFALO QUE SO QUERIA FICAR ABRACADO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.26</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.59</valor_unitário>
+    <valor_unit_rio>2.59</valor_unit_rio>
     <valor_total>0.67</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>41</número_produto>
-    <descrição_do_produto_serviço>2023-XIII ACABOU A LUZ-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>41</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-XIII ACABOU A LUZ-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.3</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.89</valor_unitário>
+    <valor_unit_rio>0.89</valor_unit_rio>
     <valor_total>0.27</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>42</número_produto>
-    <descrição_do_produto_serviço>2023-PROCURA SE CARLINHOS COELHO LADRAO DE LIVROS-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>42</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-PROCURA SE CARLINHOS COELHO LADRAO DE LIVROS-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.22</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.05</valor_unitário>
+    <valor_unit_rio>2.05</valor_unit_rio>
     <valor_total>0.45</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>43</número_produto>
-    <descrição_do_produto_serviço>2023-DE PEDACO EM PEDACO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>43</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-DE PEDACO EM PEDACO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.27</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.58</valor_unitário>
+    <valor_unit_rio>0.58</valor_unit_rio>
     <valor_total>0.16</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>44</número_produto>
-    <descrição_do_produto_serviço>2023-A LINHA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>44</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-A LINHA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.22</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.51</valor_unitário>
+    <valor_unit_rio>1.51</valor_unit_rio>
     <valor_total>0.33</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>45</número_produto>
-    <descrição_do_produto_serviço>2023-A GRALHA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>45</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-A GRALHA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.3</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.71</valor_unitário>
+    <valor_unit_rio>0.71</valor_unit_rio>
     <valor_total>0.21</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>46</número_produto>
-    <descrição_do_produto_serviço>2023-A AGUIA E A CURUJA-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>46</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-A AGUIA E A CURUJA-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.1</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.35</valor_unitário>
+    <valor_unit_rio>2.35</valor_unit_rio>
     <valor_total>0.24</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>47</número_produto>
-    <descrição_do_produto_serviço>2023-TOTO E OTTO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>47</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-TOTO E OTTO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.4</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.06</valor_unitário>
+    <valor_unit_rio>1.06</valor_unit_rio>
     <valor_total>0.42</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>48</número_produto>
-    <descrição_do_produto_serviço>2023-O ANIVERSARIO DO DINOSSAURO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>48</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-O ANIVERSARIO DO DINOSSAURO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.16</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.9</valor_unitário>
+    <valor_unit_rio>0.9</valor_unit_rio>
     <valor_total>0.14</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>49</número_produto>
-    <descrição_do_produto_serviço>2023-ESTOU PERDENDO O MEU CORPO-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>49</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-ESTOU PERDENDO O MEU CORPO-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.2</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>2.19</valor_unitário>
+    <valor_unit_rio>2.19</valor_unit_rio>
     <valor_total>0.44</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>50</número_produto>
-    <descrição_do_produto_serviço>2023-A NOITE-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>50</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-A NOITE-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.34</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.51</valor_unitário>
+    <valor_unit_rio>1.51</valor_unit_rio>
     <valor_total>0.51</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010139380954621878380336147181312368020082</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>369109</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-01-15 13:09:36</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>369109</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-01-15 13:09:36</data_emiss_o>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>51</número_produto>
-    <descrição_do_produto_serviço>2023-CURUMIM-2020</descrição_do_produto_serviço>
-    <código_ncm_sh>49019900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>51</n_mero_produto>
+    <descri_o_do_produto_servi_o>2023-CURUMIM-2020</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>49019900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros livros, brochuras e impressos semelhantes</ncm_sh_tipo_de_produto>
     <cfop>6906</cfop>
     <quantidade>0.48</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.7</valor_unitário>
+    <valor_unit_rio>0.7</valor_unit_rio>
     <valor_total>0.34</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010192792261085707756324511814553123268794</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22594</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2024-01-02 23:37:57</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22594</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2024-01-02 23:37:57</data_emiss_o>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>394502039784</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>394502039784</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>PIMENTAO VERDE</descrição_do_produto_serviço>
-    <código_ncm_sh>7096000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>PIMENTAO VERDE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7096000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Pimentões e pimentas dos gêneros Capsicum ou Pimenta, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>24.09</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>2.72</valor_unitário>
+    <valor_unit_rio>2.72</valor_unit_rio>
     <valor_total>65.52</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010156396502823859314910290343616871349060</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>60462</número>
-    <natureza_da_operação>VENDA IND CONTA/ORD</natureza_da_operação>
-    <data_emissão>2024-01-28 05:37:06</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>60462</n_mero>
+    <natureza_da_opera_o>VENDA IND CONTA/ORD</natureza_da_opera_o>
+    <data_emiss_o>2024-01-28 05:37:06</data_emiss_o>
     <cpf_cnpj_emitente>14707364000110</cpf_cnpj_emitente>
-    <razão_social_emitente>XCMG BRASIL INDUSTRIA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>18814650080</inscrição_estadual_emitente>
+    <raz_o_social_emitente>XCMG BRASIL INDUSTRIA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>18814650080</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>POUSO ALEGRE</município_emitente>
-    <cnpj_destinatário>43711000143</cnpj_destinatário>
-    <nome_destinatário>DEPT.NACIONAL DE OBRAS C SECAS</nome_destinatário>
-    <uf_destinatário>CE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>POUSO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>43711000143</cnpj_destinat_rio>
+    <nome_destinat_rio>DEPT.NACIONAL DE OBRAS C SECAS</nome_destinat_rio>
+    <uf_destinat_rio>CE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>RETROESCAVADEIRA XC870BR-I SKD COM TRANSMISSAO XCMG</descrição_do_produto_serviço>
-    <código_ncm_sh>84295900</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>RETROESCAVADEIRA XC870BR-I SKD COM TRANSMISSAO XCMG</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84295900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras pás mecânicas, escavadores, carregadoras, etc.</ncm_sh_tipo_de_produto>
     <cfop>6118</cfop>
     <quantidade>0.27</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>85975.19</valor_unitário>
+    <valor_unit_rio>85975.19</valor_unit_rio>
     <valor_total>23213.3</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010170305688710948994711296100995374537450</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4791</número>
-    <natureza_da_operação>Venda a prazo</natureza_da_operação>
-    <data_emissão>2024-01-12 20:16:47</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4791</n_mero>
+    <natureza_da_opera_o>Venda a prazo</natureza_da_opera_o>
+    <data_emiss_o>2024-01-12 20:16:47</data_emiss_o>
     <cpf_cnpj_emitente>33180160000119</cpf_cnpj_emitente>
-    <razão_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>34110590060</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>34110590060</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>JUIZ DE FORA</município_emitente>
-    <cnpj_destinatário>9595886000138</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>JUIZ DE FORA</munic_pio_emitente>
+    <cnpj_destinat_rio>9595886000138</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>REQUEIJAO 200G</descrição_do_produto_serviço>
-    <código_ncm_sh>4061090</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>REQUEIJAO 200G</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>4061090</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros queijos frescos (não curados), inclusive requeijão, etc.</ncm_sh_tipo_de_produto>
     <cfop>5405</cfop>
     <quantidade>26.88</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.22</valor_unitário>
+    <valor_unit_rio>1.22</valor_unit_rio>
     <valor_total>32.79</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010123645428764665657823600338335811319376</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>342</número>
-    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
-    <data_emissão>2024-01-01 19:39:22</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>342</n_mero>
+    <natureza_da_opera_o>Venda Fora do Estado</natureza_da_opera_o>
+    <data_emiss_o>2024-01-01 19:39:22</data_emiss_o>
     <cpf_cnpj_emitente>42933602000141</cpf_cnpj_emitente>
-    <razão_social_emitente>ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>261222082</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ZENITE COMERCIO E SUPRIMENTOS DE INFORMATICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>261222082</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>SANTO AMARO DA IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10673078000120</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA- IFMS</nome_destinatário>
-    <uf_destinatário>MS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SANTO AMARO DA IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10673078000120</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA- IFMS</nome_destinat_rio>
+    <uf_destinat_rio>MS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>PATCH PANEL CAT6 24 PORTAS</descrição_do_produto_serviço>
-    <código_ncm_sh>85369090</código_ncm_sh>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>PATCH PANEL CAT6 24 PORTAS</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>85369090</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros aparelhos para interrupção, etc, para circuitos elétricos, para uma tensão não superior a 1.000 V</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>1.47</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>90.45</valor_unitário>
+    <valor_unit_rio>90.45</valor_unit_rio>
     <valor_total>132.96</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>BROCA VIDEA 8.0MM CORTAG</descrição_do_produto_serviço>
-    <código_ncm_sh>39191020</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>BROCA VIDEA 8.0MM CORTAG</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>39191020</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Chapas, folhas, tiras, fitas, películas e outras formas planas, auto-adesivas, de plásticos, em rolos de largura não superior a 20 cm, de poli(cloreto de vinila)</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.35</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3.28</valor_unitário>
+    <valor_unit_rio>3.28</valor_unit_rio>
     <valor_total>1.15</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>BROCA VIDEA 6.0MM CORTAG</descrição_do_produto_serviço>
-    <código_ncm_sh>82075011</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>BROCA VIDEA 6.0MM CORTAG</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>82075011</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Brocas helicoidais, com diâmetro inferior ou igual a 52 mm, de metais comuns, inclusive diamantada</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.3</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1.2</valor_unitário>
+    <valor_unit_rio>1.2</valor_unit_rio>
     <valor_total>0.36</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>TINTA LUZTOL 18LT BCO NEVE</descrição_do_produto_serviço>
-    <código_ncm_sh>32091010</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>TINTA LUZTOL 18LT BCO NEVE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>32091010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Tintas de polímeros acrílicos/vinílicos, dispersos/dissolvidos em meio aquoso</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.11</quantidade>
     <unidade>LITRO</unidade>
-    <valor_unitário>62.25</valor_unitário>
+    <valor_unit_rio>62.25</valor_unit_rio>
     <valor_total>6.85</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>LIXA MASSA G-120 NORTON</descrição_do_produto_serviço>
-    <código_ncm_sh>68052000</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>LIXA MASSA G-120 NORTON</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>68052000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Abrasivos naturais ou artificiais, em pó ou em grãos, aplicados sobre matérias têxteis, papel, cartão ou outras matérias, mesmo recortados, costurados ou reunidos de outro modo, aplicados apenas sobre papel ou cartão</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>1.47</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>0.18</valor_unitário>
+    <valor_unit_rio>0.18</valor_unit_rio>
     <valor_total>0.26</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>ESPATULA ACO INOX 8 CM ATLAS</descrição_do_produto_serviço>
-    <código_ncm_sh>82055900</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>ESPATULA ACO INOX 8 CM ATLAS</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>82055900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras ferramentas manuais, de metais comuns, uso doméstico</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.15</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>6.61</valor_unitário>
+    <valor_unit_rio>6.61</valor_unit_rio>
     <valor_total>0.99</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>6</número_produto>
-    <descrição_do_produto_serviço>DESEMP. PVC CORRUGADA 18X30 CM CORTAG</descrição_do_produto_serviço>
-    <código_ncm_sh>84149020</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>6</n_mero_produto>
+    <descri_o_do_produto_servi_o>DESEMP. PVC CORRUGADA 18X30 CM CORTAG</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84149020</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Partes de ventiladores ou coifas aspirantes</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.15</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4.08</valor_unitário>
+    <valor_unit_rio>4.08</valor_unit_rio>
     <valor_total>0.61</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010174446836340123659935477554359124798665</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-27 08:22:52</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-27 08:22:52</data_emiss_o>
     <cpf_cnpj_emitente>321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>7</número_produto>
-    <descrição_do_produto_serviço>FECHADURA STAM TETRA GRAF/ALAV 1803/11</descrição_do_produto_serviço>
-    <código_ncm_sh>83014000</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>7</n_mero_produto>
+    <descri_o_do_produto_servi_o>FECHADURA STAM TETRA GRAF/ALAV 1803/11</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>83014000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras fechaduras; ferrolhos, de metais comuns</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.36</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>40.92</valor_unitário>
+    <valor_unit_rio>40.92</valor_unit_rio>
     <valor_total>14.73</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24010135791768174093570557635415514869580286</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>78</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-01-07 13:25:53</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>78</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-01-07 13:25:53</data_emiss_o>
     <cpf_cnpj_emitente>9255999000194</cpf_cnpj_emitente>
-    <razão_social_emitente>HPL CONSTRUCAO, SEGURANCA E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>798750700136</inscrição_estadual_emitente>
+    <raz_o_social_emitente>HPL CONSTRUCAO, SEGURANCA E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>798750700136</inscri_o_estadual_emitente>
     <uf_emitente>DF</uf_emitente>
-    <município_emitente>BRASILIA</município_emitente>
-    <cnpj_destinatário>2313673000208</cnpj_destinatário>
-    <nome_destinatário>1441 - AGENCIA NAC DO PETROLEO GAS NAT E</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BRASILIA</munic_pio_emitente>
+    <cnpj_destinat_rio>2313673000208</cnpj_destinat_rio>
+    <nome_destinat_rio>1441 - AGENCIA NAC DO PETROLEO GAS NAT E</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>Medicao 3 do Fornecimento e Instalacao de armarios</descrição_do_produto_serviço>
-    <código_ncm_sh>-1</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>Medicao 3 do Fornecimento e Instalacao de armarios</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>-1</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>0.34</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>8619.15</valor_unitário>
+    <valor_unit_rio>8619.15</valor_unit_rio>
     <valor_total>2930.51</valor_total>
   </registro_item>
 </nfe_itens>

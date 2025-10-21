@@ -3,162 +3,162 @@
   <registro_cabecalho>
     <chave_de_acesso>24050121536347862145891533746258145821317418</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2024-05-31 22:15:06</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2024-05-31 22:15:06</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-31 22:17:06</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>3605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>14048.99</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24050185297680543778521662599995560349962399</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3386</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-05-20 03:43:11</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3386</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 03:43:11</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-20 03:51:11</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>78796778000146</cpf_cnpj_emitente>
-    <razão_social_emitente>G DE BORBA - MARISKAP</razão_social_emitente>
-    <inscrição_estadual_emitente>1016202980</inscrição_estadual_emitente>
+    <raz_o_social_emitente>G DE BORBA - MARISKAP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>1016202980</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>CURITIBA</município_emitente>
-    <cnpj_destinatário>394429005927</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CURITIBA</munic_pio_emitente>
+    <cnpj_destinat_rio>394429005927</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>3786.46</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24050182721112530397946836937732399569641897</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>5265</número>
-    <natureza_da_operação>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_operação>
-    <data_emissão>2024-05-18 05:05:10</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>5265</n_mero>
+    <natureza_da_opera_o>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_opera_o>
+    <data_emiss_o>2024-05-18 05:05:10</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-18 05:11:10</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>3508097000217</cpf_cnpj_emitente>
-    <razão_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</razão_social_emitente>
-    <inscrição_estadual_emitente>795438273115</inscrição_estadual_emitente>
+    <raz_o_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>795438273115</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAMPINAS</município_emitente>
-    <cnpj_destinatário>10727655000543</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAMPINAS</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000543</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>5702.09</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24050109302857647821390299500425816728398320</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>113875</número>
-    <natureza_da_operação>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2024-05-01 03:11:44</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>113875</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2024-05-01 03:11:44</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-01 03:20:44</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>11319557000378</cpf_cnpj_emitente>
-    <razão_social_emitente>DENTECK LTDA - FILIAL03 MS</razão_social_emitente>
-    <inscrição_estadual_emitente>284069817</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DENTECK LTDA - FILIAL03 MS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284069817</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>MUNDO NOVO</município_emitente>
-    <cnpj_destinatário>10727655000209</cnpj_destinatário>
-    <nome_destinatário>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MUNDO NOVO</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000209</cnpj_destinat_rio>
+    <nome_destinat_rio>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>30074.44</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24050102934203634714186410907097961422548143</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>715</número>
-    <natureza_da_operação>Venda de mercadoria</natureza_da_operação>
-    <data_emissão>2024-05-05 04:39:29</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>715</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria</natureza_da_opera_o>
+    <data_emiss_o>2024-05-05 04:39:29</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-05 04:47:29</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>13158576000123</cpf_cnpj_emitente>
-    <razão_social_emitente>F C NICOLAU EQUIPAMENTOS PARA LABORATÓRIO LTDA.</razão_social_emitente>
-    <inscrição_estadual_emitente>206868421110</inscrição_estadual_emitente>
+    <raz_o_social_emitente>F C NICOLAU EQUIPAMENTOS PARA LABORATÓRIO LTDA.</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>206868421110</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>BARUERI</município_emitente>
-    <cnpj_destinatário>396895006247</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>BARUERI</munic_pio_emitente>
+    <cnpj_destinat_rio>396895006247</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>37747.57</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24050136464767207201744935895487534738960595</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>5265</número>
-    <natureza_da_operação>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_operação>
-    <data_emissão>2024-05-16 23:25:21</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>5265</n_mero>
+    <natureza_da_opera_o>OUTRAS REMESSAS DE BEM DO ATIVO</natureza_da_opera_o>
+    <data_emiss_o>2024-05-16 23:25:21</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-16 23:33:21</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>3508097000217</cpf_cnpj_emitente>
-    <razão_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</razão_social_emitente>
-    <inscrição_estadual_emitente>795438273115</inscrição_estadual_emitente>
+    <raz_o_social_emitente>REDE NACIONAL DE ENSINO E PESQUISA - RNP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>795438273115</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAMPINAS</município_emitente>
-    <cnpj_destinatário>10727655000543</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAMPINAS</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000543</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>4528.45</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24050106856767337783314202921343413843001029</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19486</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2024-05-20 04:25:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19486</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2024-05-20 04:25:50</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-05-20 04:32:50</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
-    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <raz_o_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77387250</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394502000144</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394502000144</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>4760.16</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

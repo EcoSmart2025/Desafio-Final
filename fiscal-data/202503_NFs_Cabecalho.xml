@@ -3,139 +3,139 @@
   <registro_cabecalho>
     <chave_de_acesso>25030190918873657568988261692790581354900952</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>92</número>
-    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
-    <data_emissão>2025-03-13 22:06:23</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>92</n_mero>
+    <natureza_da_opera_o>Venda Fora do Estado</natureza_da_opera_o>
+    <data_emiss_o>2025-03-13 22:06:23</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-03-13 22:09:23</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>47334422000167</cpf_cnpj_emitente>
-    <razão_social_emitente>DANIEL ROSA LOPES 25949024893</razão_social_emitente>
-    <inscrição_estadual_emitente>136559550112</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DANIEL ROSA LOPES 25949024893</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>136559550112</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SAO PAULO</município_emitente>
-    <cnpj_destinatário>24098477000110</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DA PARAIBA UFPB</nome_destinatário>
-    <uf_destinatário>PB</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>24098477000110</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DA PARAIBA UFPB</nome_destinat_rio>
+    <uf_destinat_rio>PB</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>492.65</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25030125192622873265812557446469490565290434</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-03-15 07:27:02</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-03-15 07:27:02</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-03-15 07:31:02</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>8158.52</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25030130072861553674095834459072660022717093</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2928</número>
-    <natureza_da_operação>Venda de mercadoria</natureza_da_operação>
-    <data_emissão>2025-03-07 13:08:27</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2928</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria</natureza_da_opera_o>
+    <data_emiss_o>2025-03-07 13:08:27</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-03-07 13:13:27</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>11142525000188</cpf_cnpj_emitente>
-    <razão_social_emitente>CLEBER NASCIMENTO DA ROSA EPP</razão_social_emitente>
-    <inscrição_estadual_emitente>260696803</inscrição_estadual_emitente>
+    <raz_o_social_emitente>CLEBER NASCIMENTO DA ROSA EPP</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>260696803</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>PASSO DE TORRES</município_emitente>
-    <cnpj_destinatário>394429005927</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>PASSO DE TORRES</munic_pio_emitente>
+    <cnpj_destinat_rio>394429005927</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>1768.95</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25030157701451691310149990770088979656747368</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>115</número>
-    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
-    <data_emissão>2025-03-11 17:16:49</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>115</n_mero>
+    <natureza_da_opera_o>Venda Fora do Estado</natureza_da_opera_o>
+    <data_emiss_o>2025-03-11 17:16:49</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-03-11 17:25:49</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>51607431000151</cpf_cnpj_emitente>
-    <razão_social_emitente>F &amp; K BRASIL LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>200619381</inscrição_estadual_emitente>
+    <raz_o_social_emitente>F &amp; K BRASIL LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>200619381</inscri_o_estadual_emitente>
     <uf_emitente>GO</uf_emitente>
-    <município_emitente>GOIANIA</município_emitente>
-    <cnpj_destinatário>10626896000687</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCAÇÃO - CAMPUS SJE</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>GOIANIA</munic_pio_emitente>
+    <cnpj_destinat_rio>10626896000687</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCAÇÃO - CAMPUS SJE</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>3950.76</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25030103241260278632060239161771528339632092</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>61513</número>
-    <natureza_da_operação>VENDA DENTRO DO ESTADO</natureza_da_operação>
-    <data_emissão>2025-03-13 11:50:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>61513</n_mero>
+    <natureza_da_opera_o>VENDA DENTRO DO ESTADO</natureza_da_opera_o>
+    <data_emiss_o>2025-03-13 11:50:16</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-03-13 11:52:16</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>24875483000136</cpf_cnpj_emitente>
-    <razão_social_emitente>ESSENCIAL RIO DISTRIB. DE PROD. MEDICOS E HOSPITALARES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>87152596</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ESSENCIAL RIO DISTRIB. DE PROD. MEDICOS E HOSPITALARES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>87152596</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>NOVA IGUACU</município_emitente>
-    <cnpj_destinatário>9609235000230</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL CENTRAL DO EXERCITO</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NOVA IGUACU</munic_pio_emitente>
+    <cnpj_destinat_rio>9609235000230</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL CENTRAL DO EXERCITO</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>9769.86</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25030106484445620033721517744490605731729164</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22594</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2025-03-25 05:54:18</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22594</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2025-03-25 05:54:18</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2025-03-25 06:01:18</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>394502039784</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>394502039784</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>349.68</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

@@ -3,726 +3,726 @@
   <registro_item>
     <chave_de_acesso>24100181726494763512376586724511717008549853</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>479</número>
-    <natureza_da_operação>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2024-10-17 10:27:08</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>479</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2024-10-17 10:27:08</data_emiss_o>
     <cpf_cnpj_emitente>30102251000148</cpf_cnpj_emitente>
-    <razão_social_emitente>WIDETECH AUTOMACAO LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>9078997998</inscrição_estadual_emitente>
+    <raz_o_social_emitente>WIDETECH AUTOMACAO LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>9078997998</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>ARAUCARIA</município_emitente>
-    <cnpj_destinatário>10695891000100</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO TRIANG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>ARAUCARIA</munic_pio_emitente>
+    <cnpj_destinat_rio>10695891000100</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO TRIANG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>ESTACAO DE SOLDA 881D</descrição_do_produto_serviço>
-    <código_ncm_sh>84689020</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>ESTACAO DE SOLDA 881D</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84689020</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Partes de máquinas e aparelhos para soldar por fricção</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>1.12</quantidade>
     <unidade>PEÇA</unidade>
-    <valor_unitário>833.21</valor_unitário>
+    <valor_unit_rio>833.21</valor_unit_rio>
     <valor_total>933.2</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>FILTRO HIDRAULICO - 80634900 PSH974</descrição_do_produto_serviço>
-    <código_ncm_sh>87089990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>FILTRO HIDRAULICO - 80634900 PSH974</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>87089990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras partes e acessórios para tratores e veículos automóveis</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>1.0</quantidade>
     <unidade>PEÇA</unidade>
-    <valor_unitário>136.97</valor_unitário>
+    <valor_unit_rio>136.97</valor_unit_rio>
     <valor_total>136.97</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>FILTRO HIDRAULICO - 433800</descrição_do_produto_serviço>
-    <código_ncm_sh>73181500</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>FILTRO HIDRAULICO - 433800</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>73181500</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros parafusos e pinos ou pernos, mesmo com as porcas e arruelas, de ferro fundido, ferro ou aço</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>2.22</quantidade>
     <unidade>PEÇA</unidade>
-    <valor_unitário>142.97</valor_unitário>
+    <valor_unit_rio>142.97</valor_unit_rio>
     <valor_total>317.39</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>FILTRO CAV CURTO - 2710659 836015106</descrição_do_produto_serviço>
-    <código_ncm_sh>87089990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>FILTRO CAV CURTO - 2710659 836015106</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>87089990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras partes e acessórios para tratores e veículos automóveis</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>2.12</quantidade>
     <unidade>PEÇA</unidade>
-    <valor_unitário>40.84</valor_unitário>
+    <valor_unit_rio>40.84</valor_unit_rio>
     <valor_total>86.58</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>FILTRO OLEO - 836647133 PSL836</descrição_do_produto_serviço>
-    <código_ncm_sh>84219999</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>FILTRO OLEO - 836647133 PSL836</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84219999</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras partes de aparelhos para filtrar ou depurar líquidos, etc.</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>1.05</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>114.14</valor_unitário>
+    <valor_unit_rio>114.14</valor_unit_rio>
     <valor_total>119.85</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>FILTRO AR EXT - 80270500</descrição_do_produto_serviço>
-    <código_ncm_sh>87089990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>FILTRO AR EXT - 80270500</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>87089990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras partes e acessórios para tratores e veículos automóveis</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>0.97</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>276.31</valor_unitário>
+    <valor_unit_rio>276.31</valor_unit_rio>
     <valor_total>268.02</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>6</número_produto>
-    <descrição_do_produto_serviço>FILTROS DIVERSOS - 003265</descrição_do_produto_serviço>
-    <código_ncm_sh>87089990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>6</n_mero_produto>
+    <descri_o_do_produto_servi_o>FILTROS DIVERSOS - 003265</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>87089990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras partes e acessórios para tratores e veículos automóveis</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>0.8</quantidade>
     <unidade>PEÇA</unidade>
-    <valor_unitário>166.92</valor_unitário>
+    <valor_unit_rio>166.92</valor_unit_rio>
     <valor_total>133.54</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>7</número_produto>
-    <descrição_do_produto_serviço>OLEO TRANSMISSAO MULT F 433 MTO100 10W30 - 1000433</descrição_do_produto_serviço>
-    <código_ncm_sh>27101932</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>7</n_mero_produto>
+    <descri_o_do_produto_servi_o>OLEO TRANSMISSAO MULT F 433 MTO100 10W30 - 1000433</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>27101932</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Óleos lubrificantes com aditivos</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>58.62</quantidade>
     <unidade>LITRO</unidade>
-    <valor_unitário>50.1</valor_unitário>
+    <valor_unit_rio>50.1</valor_unit_rio>
     <valor_total>2936.86</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>8</número_produto>
-    <descrição_do_produto_serviço>OLEO LUBRIFICANTE MOTOR 15W40 - 100015W40</descrição_do_produto_serviço>
-    <código_ncm_sh>27101932</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>8</n_mero_produto>
+    <descri_o_do_produto_servi_o>OLEO LUBRIFICANTE MOTOR 15W40 - 100015W40</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>27101932</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Óleos lubrificantes com aditivos</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>17.8</quantidade>
     <unidade>LITRO</unidade>
-    <valor_unitário>68.78</valor_unitário>
+    <valor_unit_rio>68.78</valor_unit_rio>
     <valor_total>1224.28</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100124948768247307830040243068397881353592</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>3638</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_operação>
-    <data_emissão>2024-10-21 22:25:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>3638</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natureza_da_opera_o>
+    <data_emiss_o>2024-10-21 22:25:16</data_emiss_o>
     <cpf_cnpj_emitente>07200582000107</cpf_cnpj_emitente>
-    <razão_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>254915477</inscrição_estadual_emitente>
+    <raz_o_social_emitente>L G COMERCIAL DE MAQUINAS AGRICOLAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>254915477</inscri_o_estadual_emitente>
     <uf_emitente>SC</uf_emitente>
-    <município_emitente>CHAPECO</município_emitente>
-    <cnpj_destinatário>8829974000275</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CHAPECO</munic_pio_emitente>
+    <cnpj_destinat_rio>8829974000275</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>9</número_produto>
-    <descrição_do_produto_serviço>OLEO 90 GL5 TRACAO CAIXA CAMBIO - 100090</descrição_do_produto_serviço>
-    <código_ncm_sh>27101932</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>9</n_mero_produto>
+    <descri_o_do_produto_servi_o>OLEO 90 GL5 TRACAO CAIXA CAMBIO - 100090</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>27101932</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Óleos lubrificantes com aditivos</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>10.03</quantidade>
     <unidade>LITRO</unidade>
-    <valor_unitário>52.84</valor_unitário>
+    <valor_unit_rio>52.84</valor_unit_rio>
     <valor_total>529.99</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>BILIRRUBINA TOTAL AUTOMACAO (50 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>BILIRRUBINA TOTAL AUTOMACAO (50 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>0.91</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>15.87</valor_unitário>
+    <valor_unit_rio>15.87</valor_unit_rio>
     <valor_total>14.44</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>BIOCAL (5 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38229000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>BIOCAL (5 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38229000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>1.12</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>22.78</valor_unitário>
+    <valor_unit_rio>22.78</valor_unit_rio>
     <valor_total>25.51</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>CK MB UV (50 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>CK MB UV (50 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>1.08</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>75.35</valor_unitário>
+    <valor_unit_rio>75.35</valor_unit_rio>
     <valor_total>81.38</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>CREATININA AUTOMACAO (300 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>CREATININA AUTOMACAO (300 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>1.15</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>11.99</valor_unitário>
+    <valor_unit_rio>11.99</valor_unit_rio>
     <valor_total>13.79</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>DESIDROGENASE LATICA LDH UV (50 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>DESIDROGENASE LATICA LDH UV (50 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>1.63</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>8.67</valor_unitário>
+    <valor_unit_rio>8.67</valor_unit_rio>
     <valor_total>14.13</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>6</número_produto>
-    <descrição_do_produto_serviço>FOSFATASE ALCALINA IFCC (100 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>6</n_mero_produto>
+    <descri_o_do_produto_servi_o>FOSFATASE ALCALINA IFCC (100 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>0.85</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>16.69</valor_unitário>
+    <valor_unit_rio>16.69</valor_unit_rio>
     <valor_total>14.19</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>7</número_produto>
-    <descrição_do_produto_serviço>FOSFORO</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>7</n_mero_produto>
+    <descri_o_do_produto_servi_o>FOSFORO</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>2.05</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>6.28</valor_unitário>
+    <valor_unit_rio>6.28</valor_unit_rio>
     <valor_total>12.87</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100174264793195283983894555377677065008637</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>138288</número>
-    <natureza_da_operação>BONIFICACAO / DOACAO/BRINDE</natureza_da_operação>
-    <data_emissão>2024-10-29 11:12:10</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>138288</n_mero>
+    <natureza_da_opera_o>BONIFICACAO / DOACAO/BRINDE</natureza_da_opera_o>
+    <data_emiss_o>2024-10-29 11:12:10</data_emiss_o>
     <cpf_cnpj_emitente>19400787000107</cpf_cnpj_emitente>
-    <razão_social_emitente>QUIBASA QUIMICA BASICA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>622059920069</inscrição_estadual_emitente>
+    <raz_o_social_emitente>QUIBASA QUIMICA BASICA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>622059920069</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>BELO HORIZONTE</município_emitente>
-    <cnpj_destinatário>25944455000196</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BELO HORIZONTE</munic_pio_emitente>
+    <cnpj_destinat_rio>25944455000196</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DE VICOSA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>8</número_produto>
-    <descrição_do_produto_serviço>UREIA UV (200 ML)</descrição_do_produto_serviço>
-    <código_ncm_sh>38221990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>8</n_mero_produto>
+    <descri_o_do_produto_servi_o>UREIA UV (200 ML)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>38221990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>5910</cfop>
     <quantidade>1.07</quantidade>
     <unidade>KT</unidade>
-    <valor_unitário>20.3</valor_unitário>
+    <valor_unit_rio>20.3</valor_unit_rio>
     <valor_total>21.72</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100151780079348941409185309409645610005638</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>19</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2024-10-31 21:45:10</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>19</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2024-10-31 21:45:10</data_emiss_o>
     <cpf_cnpj_emitente>50506565000113</cpf_cnpj_emitente>
-    <razão_social_emitente>OGATTI IMPORTS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>821588200151</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OGATTI IMPORTS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>821588200151</inscri_o_estadual_emitente>
     <uf_emitente>DF</uf_emitente>
-    <município_emitente>BRASILIA</município_emitente>
-    <cnpj_destinatário>9585272000175</cnpj_destinatário>
-    <nome_destinatário>2 REGIMENTO DE CAVALARIA DE GUARDAS</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>BRASILIA</munic_pio_emitente>
+    <cnpj_destinat_rio>9585272000175</cnpj_destinat_rio>
+    <nome_destinat_rio>2 REGIMENTO DE CAVALARIA DE GUARDAS</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>ESTRADO DE BORRACHA</descrição_do_produto_serviço>
-    <código_ncm_sh>40169100</código_ncm_sh>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>ESTRADO DE BORRACHA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>40169100</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Revestimentos para pisos (pavimentos) e capachos, de borracha vulcanizada não endurecida</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>33.23</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>298.49</valor_unitário>
+    <valor_unit_rio>298.49</valor_unit_rio>
     <valor_total>9918.82</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100150950590783981262046762220600312164702</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>2600094</número>
-    <natureza_da_operação>S</natureza_da_operação>
-    <data_emissão>2024-10-27 10:09:15</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>2600094</n_mero>
+    <natureza_da_opera_o>S</natureza_da_opera_o>
+    <data_emiss_o>2024-10-27 10:09:15</data_emiss_o>
     <cpf_cnpj_emitente>***.152.402-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ANTONIO DE PAIVA COSTA</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ANTONIO DE PAIVA COSTA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PA</uf_emitente>
-    <município_emitente>OBIDOS</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OBIDOS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>HORTIFRUTICOLAS - CHEIRO VERDE</descrição_do_produto_serviço>
-    <código_ncm_sh>7099990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>HORTIFRUTICOLAS - CHEIRO VERDE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos hortícolas, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>168.39</quantidade>
     <unidade>METRO</unidade>
-    <valor_unitário>4.63</valor_unitário>
+    <valor_unit_rio>4.63</valor_unit_rio>
     <valor_total>779.65</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100150950590783981262046762220600312164702</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>2600094</número>
-    <natureza_da_operação>S</natureza_da_operação>
-    <data_emissão>2024-10-27 10:09:15</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>2600094</n_mero>
+    <natureza_da_opera_o>S</natureza_da_opera_o>
+    <data_emiss_o>2024-10-27 10:09:15</data_emiss_o>
     <cpf_cnpj_emitente>***.152.402-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ANTONIO DE PAIVA COSTA</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ANTONIO DE PAIVA COSTA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PA</uf_emitente>
-    <município_emitente>OBIDOS</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OBIDOS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>HORTIFRUTICOLAS - ESPINAFRE</descrição_do_produto_serviço>
-    <código_ncm_sh>7097000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>HORTIFRUTICOLAS - ESPINAFRE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7097000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Espinafres, espinafres-da-nova-zelândia e espinafres gigantes, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>21.48</quantidade>
     <unidade>METRO</unidade>
-    <valor_unitário>7.87</valor_unitário>
+    <valor_unit_rio>7.87</valor_unit_rio>
     <valor_total>169.05</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100150950590783981262046762220600312164702</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>2600094</número>
-    <natureza_da_operação>S</natureza_da_operação>
-    <data_emissão>2024-10-27 10:09:15</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>2600094</n_mero>
+    <natureza_da_opera_o>S</natureza_da_opera_o>
+    <data_emiss_o>2024-10-27 10:09:15</data_emiss_o>
     <cpf_cnpj_emitente>***.152.402-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ANTONIO DE PAIVA COSTA</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ANTONIO DE PAIVA COSTA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PA</uf_emitente>
-    <município_emitente>OBIDOS</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OBIDOS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>FEIJAO - FEIJAO QUARENTINHA</descrição_do_produto_serviço>
-    <código_ncm_sh>7133399</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>FEIJAO - FEIJAO QUARENTINHA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7133399</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros feijões comuns, secos, em grãos</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>21.07</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>11.45</valor_unitário>
+    <valor_unit_rio>11.45</valor_unit_rio>
     <valor_total>241.25</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100150950590783981262046762220600312164702</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>2600094</número>
-    <natureza_da_operação>S</natureza_da_operação>
-    <data_emissão>2024-10-27 10:09:15</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>2600094</n_mero>
+    <natureza_da_opera_o>S</natureza_da_opera_o>
+    <data_emiss_o>2024-10-27 10:09:15</data_emiss_o>
     <cpf_cnpj_emitente>***.152.402-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ANTONIO DE PAIVA COSTA</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ANTONIO DE PAIVA COSTA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PA</uf_emitente>
-    <município_emitente>OBIDOS</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OBIDOS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>HORTIFRUTICOLAS - MACAXEIRA</descrição_do_produto_serviço>
-    <código_ncm_sh>7069000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>HORTIFRUTICOLAS - MACAXEIRA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7069000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Beterrabas, rabanetes e outras raízes, frescas, refrigeradas</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>94.92</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>5.8</valor_unitário>
+    <valor_unit_rio>5.8</valor_unit_rio>
     <valor_total>550.54</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100150950590783981262046762220600312164702</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>2600094</número>
-    <natureza_da_operação>S</natureza_da_operação>
-    <data_emissão>2024-10-27 10:09:15</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>2600094</n_mero>
+    <natureza_da_opera_o>S</natureza_da_opera_o>
+    <data_emiss_o>2024-10-27 10:09:15</data_emiss_o>
     <cpf_cnpj_emitente>***.152.402-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ANTONIO DE PAIVA COSTA</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ANTONIO DE PAIVA COSTA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PA</uf_emitente>
-    <município_emitente>OBIDOS</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OBIDOS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>HORTIFRUTICOLAS - MEXIXE</descrição_do_produto_serviço>
-    <código_ncm_sh>7099300</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>HORTIFRUTICOLAS - MEXIXE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099300</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Abóboras, abobrinhas e cabaças, fresca ou refrigerada</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>21.67</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>16.06</valor_unitário>
+    <valor_unit_rio>16.06</valor_unit_rio>
     <valor_total>348.02</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>24100177836788036217497220968644739262343459</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4791</número>
-    <natureza_da_operação>Venda a prazo</natureza_da_operação>
-    <data_emissão>2024-10-30 08:23:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4791</n_mero>
+    <natureza_da_opera_o>Venda a prazo</natureza_da_opera_o>
+    <data_emiss_o>2024-10-30 08:23:16</data_emiss_o>
     <cpf_cnpj_emitente>33180160000119</cpf_cnpj_emitente>
-    <razão_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>34110590060</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>34110590060</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>JUIZ DE FORA</município_emitente>
-    <cnpj_destinatário>9595886000138</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>JUIZ DE FORA</munic_pio_emitente>
+    <cnpj_destinat_rio>9595886000138</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>REQUEIJAO 200G</descrição_do_produto_serviço>
-    <código_ncm_sh>4061090</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>REQUEIJAO 200G</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>4061090</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros queijos frescos (não curados), inclusive requeijão, etc.</ncm_sh_tipo_de_produto>
     <cfop>5405</cfop>
     <quantidade>191.04</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>5.45</valor_unitário>
+    <valor_unit_rio>5.45</valor_unit_rio>
     <valor_total>1041.17</valor_total>
   </registro_item>
 </nfe_itens>

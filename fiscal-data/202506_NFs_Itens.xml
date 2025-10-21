@@ -3,697 +3,697 @@
   <registro_item>
     <chave_de_acesso>25060107063592183502860322047445718435444798</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4791</número>
-    <natureza_da_operação>Venda a prazo</natureza_da_operação>
-    <data_emissão>2025-06-10 17:26:57</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4791</n_mero>
+    <natureza_da_opera_o>Venda a prazo</natureza_da_opera_o>
+    <data_emiss_o>2025-06-10 17:26:57</data_emiss_o>
     <cpf_cnpj_emitente>33180160000119</cpf_cnpj_emitente>
-    <razão_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>34110590060</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JP COMERCIO DE PRODUTOS ALIMENTICIOS E SERVICOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>34110590060</inscri_o_estadual_emitente>
     <uf_emitente>MG</uf_emitente>
-    <município_emitente>JUIZ DE FORA</município_emitente>
-    <cnpj_destinatário>9595886000138</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>JUIZ DE FORA</munic_pio_emitente>
+    <cnpj_destinat_rio>9595886000138</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA 4 BRIGADA DE INFANTARIA LEVE MONTANHA</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>REQUEIJAO 200G</descrição_do_produto_serviço>
-    <código_ncm_sh>4061090</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>REQUEIJAO 200G</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>4061090</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros queijos frescos (não curados), inclusive requeijão, etc.</ncm_sh_tipo_de_produto>
     <cfop>5405</cfop>
     <quantidade>234.36</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>6.17</valor_unitário>
+    <valor_unit_rio>6.17</valor_unit_rio>
     <valor_total>1446.0</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060136383608711171553218951413313536240340</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>113875</número>
-    <natureza_da_operação>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2025-06-29 17:56:12</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>113875</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2025-06-29 17:56:12</data_emiss_o>
     <cpf_cnpj_emitente>11319557000378</cpf_cnpj_emitente>
-    <razão_social_emitente>DENTECK LTDA - FILIAL03 MS</razão_social_emitente>
-    <inscrição_estadual_emitente>284069817</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DENTECK LTDA - FILIAL03 MS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284069817</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>MUNDO NOVO</município_emitente>
-    <cnpj_destinatário>10727655000209</cnpj_destinatário>
-    <nome_destinatário>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MUNDO NOVO</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000209</cnpj_destinat_rio>
+    <nome_destinat_rio>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>AR CONDICIONADO HW INVERTER AGRATTO 24000 S/F 220V R32 LIV O.C.: 2023NE442</descrição_do_produto_serviço>
-    <código_ncm_sh>84151011</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>AR CONDICIONADO HW INVERTER AGRATTO 24000 S/F 220V R32 LIV O.C.: 2023NE442</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84151011</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Aparelhos de ar condicionado do tipo split-system (sistema com elementos separados), com capacidade inferior ou igual a 30.000 frigorias/hora, utilizados em paredes ou janelas</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>2.12</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4235.26</valor_unitário>
+    <valor_unit_rio>4235.26</valor_unit_rio>
     <valor_total>8978.75</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060136383608711171553218951413313536240340</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>113875</número>
-    <natureza_da_operação>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2025-06-29 17:56:12</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>113875</n_mero>
+    <natureza_da_opera_o>VENDA DE MERC ADQUIRIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2025-06-29 17:56:12</data_emiss_o>
     <cpf_cnpj_emitente>11319557000378</cpf_cnpj_emitente>
-    <razão_social_emitente>DENTECK LTDA - FILIAL03 MS</razão_social_emitente>
-    <inscrição_estadual_emitente>284069817</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DENTECK LTDA - FILIAL03 MS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>284069817</inscri_o_estadual_emitente>
     <uf_emitente>MS</uf_emitente>
-    <município_emitente>MUNDO NOVO</município_emitente>
-    <cnpj_destinatário>10727655000209</cnpj_destinatário>
-    <nome_destinatário>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MUNDO NOVO</munic_pio_emitente>
+    <cnpj_destinat_rio>10727655000209</cnpj_destinat_rio>
+    <nome_destinat_rio>IFMG/SALINAS MG - INSTITUTO FEDERAL DO NORTE DE MG</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>AR CONDICIONADO HW INVERTER AGRATTO 30000 S/F 220V R-32 NEO O.C.: 2023NE442</descrição_do_produto_serviço>
-    <código_ncm_sh>84151011</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>AR CONDICIONADO HW INVERTER AGRATTO 30000 S/F 220V R-32 NEO O.C.: 2023NE442</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>84151011</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Aparelhos de ar condicionado do tipo split-system (sistema com elementos separados), com capacidade inferior ou igual a 30.000 frigorias/hora, utilizados em paredes ou janelas</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>4.19</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>4881.43</valor_unitário>
+    <valor_unit_rio>4881.43</valor_unit_rio>
     <valor_total>20453.19</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>PROBE SOLARIS 90 GRAUS</descrição_do_produto_serviço>
-    <código_ncm_sh>90189029</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>PROBE SOLARIS 90 GRAUS</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90189029</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros bisturis</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>0.98</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1877.57</valor_unitário>
+    <valor_unit_rio>1877.57</valor_unit_rio>
     <valor_total>1840.02</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>PROBE SOLARIS 90 GRAUS</descrição_do_produto_serviço>
-    <código_ncm_sh>90189029</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>PROBE SOLARIS 90 GRAUS</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90189029</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros bisturis</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.13</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1908.85</valor_unitário>
+    <valor_unit_rio>1908.85</valor_unit_rio>
     <valor_total>2157.0</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>EQUIPO DE IRRIGACAO AR 2 VIAS</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>EQUIPO DE IRRIGACAO AR 2 VIAS</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>0.92</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>517.94</valor_unitário>
+    <valor_unit_rio>517.94</valor_unit_rio>
     <valor_total>476.5</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>EQUIPO DE IRRIGACAO AR 2 VIAS</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>EQUIPO DE IRRIGACAO AR 2 VIAS</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.02</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>444.8</valor_unitário>
+    <valor_unit_rio>444.8</valor_unit_rio>
     <valor_total>453.7</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 90 MM</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 90 MM</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.14</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>361.55</valor_unitário>
+    <valor_unit_rio>361.55</valor_unit_rio>
     <valor_total>412.17</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>6</número_produto>
-    <descrição_do_produto_serviço>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 90 MM</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>6</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 90 MM</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.19</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>501.62</valor_unitário>
+    <valor_unit_rio>501.62</valor_unit_rio>
     <valor_total>596.93</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>7</número_produto>
-    <descrição_do_produto_serviço>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 70 MM</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>7</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 70 MM</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.13</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>373.58</valor_unitário>
+    <valor_unit_rio>373.58</valor_unit_rio>
     <valor_total>422.15</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>8</número_produto>
-    <descrição_do_produto_serviço>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 70 MM</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>8</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA PARA ARTROSCOPIA RAZEK 8,5 MM X 70 MM</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>0.8</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>382.34</valor_unitário>
+    <valor_unit_rio>382.34</valor_unit_rio>
     <valor_total>305.87</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>9</número_produto>
-    <descrição_do_produto_serviço>CANULA DE MICRODEBRIDACAO RAZEK - RB 2,9/5,5A</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>9</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA DE MICRODEBRIDACAO RAZEK - RB 2,9/5,5A</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.05</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>847.57</valor_unitário>
+    <valor_unit_rio>847.57</valor_unit_rio>
     <valor_total>889.95</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>10</número_produto>
-    <descrição_do_produto_serviço>CANULA DE MICRODEBRIDACAO QUADRIL RAZEK - AMC 2,9/5,5 A</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>10</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA DE MICRODEBRIDACAO QUADRIL RAZEK - AMC 2,9/5,5 A</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>0.82</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>745.62</valor_unitário>
+    <valor_unit_rio>745.62</valor_unit_rio>
     <valor_total>611.41</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060162958077238145701445703545614991162780</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>158990</número>
-    <natureza_da_operação>SIMPLES REMESSA</natureza_da_operação>
-    <data_emissão>2025-06-23 13:57:42</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>158990</n_mero>
+    <natureza_da_opera_o>SIMPLES REMESSA</natureza_da_opera_o>
+    <data_emiss_o>2025-06-23 13:57:42</data_emiss_o>
     <cpf_cnpj_emitente>10591513000178</cpf_cnpj_emitente>
-    <razão_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>963289721</inscrição_estadual_emitente>
+    <raz_o_social_emitente>OSTHEON COM.IMPORT.E EXPORT.DE PROD.HOSP.LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>963289721</inscri_o_estadual_emitente>
     <uf_emitente>RS</uf_emitente>
-    <município_emitente>PORTO ALEGRE</município_emitente>
-    <cnpj_destinatário>10360293000252</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO ALEGRE</munic_pio_emitente>
+    <cnpj_destinat_rio>10360293000252</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL MILITAR DE AREA DE PORTO ALEGRE</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>11</número_produto>
-    <descrição_do_produto_serviço>CANULA DE MICRODEBRIDACAO QUADRIL RAZEK - TB 2,9/5,5 A</descrição_do_produto_serviço>
-    <código_ncm_sh>90183929</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>11</n_mero_produto>
+    <descri_o_do_produto_servi_o>CANULA DE MICRODEBRIDACAO QUADRIL RAZEK - TB 2,9/5,5 A</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90183929</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras sondas, catéteres e cânulas</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.11</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>785.87</valor_unitário>
+    <valor_unit_rio>785.87</valor_unit_rio>
     <valor_total>872.32</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060176057451072976976479485289504924294343</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22661</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2025-06-07 23:30:16</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22661</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2025-06-07 23:30:16</data_emiss_o>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>24365710000183</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>24365710000183</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>ALHO BRANCO</descrição_do_produto_serviço>
-    <código_ncm_sh>7032090</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>ALHO BRANCO</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7032090</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Alhos, frescos ou refrigerados, exceto para semeadura</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>3.76</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>20.07</valor_unitário>
+    <valor_unit_rio>20.07</valor_unit_rio>
     <valor_total>75.46</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060158678692793836291888254348878992376154</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-06-02 23:23:24</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-06-02 23:23:24</data_emiss_o>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>BATATA DOCE</descrição_do_produto_serviço>
-    <código_ncm_sh>7099990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>BATATA DOCE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos hortícolas, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>21.27</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>5.52</valor_unitário>
+    <valor_unit_rio>5.52</valor_unit_rio>
     <valor_total>117.41</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060158678692793836291888254348878992376154</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-06-02 23:23:24</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-06-02 23:23:24</data_emiss_o>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>COUVEFLOR</descrição_do_produto_serviço>
-    <código_ncm_sh>7099990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>COUVEFLOR</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos hortícolas, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>3.24</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>17.82</valor_unitário>
+    <valor_unit_rio>17.82</valor_unit_rio>
     <valor_total>57.74</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060158678692793836291888254348878992376154</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-06-02 23:23:24</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-06-02 23:23:24</data_emiss_o>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>MANGA</descrição_do_produto_serviço>
-    <código_ncm_sh>7099990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>MANGA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos hortícolas, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>30.68</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>7.03</valor_unitário>
+    <valor_unit_rio>7.03</valor_unit_rio>
     <valor_total>215.68</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060158678692793836291888254348878992376154</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-06-02 23:23:24</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-06-02 23:23:24</data_emiss_o>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>MILHO VERDE EM ESPIGA</descrição_do_produto_serviço>
-    <código_ncm_sh>7099990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>MILHO VERDE EM ESPIGA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos hortícolas, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>33.83</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>8.8</valor_unitário>
+    <valor_unit_rio>8.8</valor_unit_rio>
     <valor_total>297.7</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060158678692793836291888254348878992376154</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243008447</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2025-06-02 23:23:24</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243008447</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2025-06-02 23:23:24</data_emiss_o>
     <cpf_cnpj_emitente>***.858.493-**</cpf_cnpj_emitente>
-    <razão_social_emitente>JUAREZ SILVA CABRAL</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JUAREZ SILVA CABRAL</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>VINAGREIRA</descrição_do_produto_serviço>
-    <código_ncm_sh>7099990</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>VINAGREIRA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7099990</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos hortícolas, frescos ou refrigerados</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>12.26</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>10.71</valor_unitário>
+    <valor_unit_rio>10.71</valor_unit_rio>
     <valor_total>131.3</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060100638732907203609727021604879951040317</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>1105</número>
-    <natureza_da_operação>Vendas</natureza_da_operação>
-    <data_emissão>2025-06-30 12:26:47</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>1105</n_mero>
+    <natureza_da_opera_o>Vendas</natureza_da_opera_o>
+    <data_emiss_o>2025-06-30 12:26:47</data_emiss_o>
     <cpf_cnpj_emitente>32366879000186</cpf_cnpj_emitente>
-    <razão_social_emitente>EDGAR HERRERA PEREIRA</razão_social_emitente>
-    <inscrição_estadual_emitente>633837572112</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EDGAR HERRERA PEREIRA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>633837572112</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SANTOS</município_emitente>
-    <cnpj_destinatário>9577973000162</cnpj_destinatário>
-    <nome_destinatário>SEGUNDO GRUPO DE ARTILHARIA ANTIAEREA</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SANTOS</munic_pio_emitente>
+    <cnpj_destinat_rio>9577973000162</cnpj_destinat_rio>
+    <nome_destinat_rio>SEGUNDO GRUPO DE ARTILHARIA ANTIAEREA</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>Sabão em pó</descrição_do_produto_serviço>
-    <código_ncm_sh>9109900</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>Sabão em pó</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>9109900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras especiarias</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>268.76</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>5.78</valor_unitário>
+    <valor_unit_rio>5.78</valor_unit_rio>
     <valor_total>1553.43</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060106192897710763591989389007995807187659</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>4</série>
-    <número>135717</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_operação>
-    <data_emissão>2025-06-05 18:22:53</data_emissão>
+    <s_rie>4</s_rie>
+    <n_mero>135717</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_opera_o>
+    <data_emiss_o>2025-06-05 18:22:53</data_emiss_o>
     <cpf_cnpj_emitente>58309709000153</cpf_cnpj_emitente>
-    <razão_social_emitente>CHEMYUNION LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>669166739119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>CHEMYUNION LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>669166739119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SOROCABA</município_emitente>
-    <cnpj_destinatário>33781055004980</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SOROCABA</munic_pio_emitente>
+    <cnpj_destinat_rio>33781055004980</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>HGC 1 Cinza Opaco/Creme Opaco-125-CP</descrição_do_produto_serviço>
-    <código_ncm_sh>96020010</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>HGC 1 Cinza Opaco/Creme Opaco-125-CP</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>96020010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Cápsulas de gelatinas digeríveis</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>6992.44</quantidade>
     <unidade>MILHEI</unidade>
-    <valor_unitário>42.09</valor_unitário>
+    <valor_unit_rio>42.09</valor_unit_rio>
     <valor_total>294311.8</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060106192897710763591989389007995807187659</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>4</série>
-    <número>135717</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_operação>
-    <data_emissão>2025-06-05 18:22:53</data_emissão>
+    <s_rie>4</s_rie>
+    <n_mero>135717</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_opera_o>
+    <data_emiss_o>2025-06-05 18:22:53</data_emiss_o>
     <cpf_cnpj_emitente>58309709000153</cpf_cnpj_emitente>
-    <razão_social_emitente>CHEMYUNION LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>669166739119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>CHEMYUNION LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>669166739119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SOROCABA</município_emitente>
-    <cnpj_destinatário>33781055004980</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SOROCABA</munic_pio_emitente>
+    <cnpj_destinat_rio>33781055004980</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>HGC 4 Branco/Branco-300-CP</descrição_do_produto_serviço>
-    <código_ncm_sh>96020010</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>HGC 4 Branco/Branco-300-CP</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>96020010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Cápsulas de gelatinas digeríveis</ncm_sh_tipo_de_produto>
     <cfop>6102</cfop>
     <quantidade>32355.46</quantidade>
     <unidade>MILHEI</unidade>
-    <valor_unitário>32.95</valor_unitário>
+    <valor_unit_rio>32.95</valor_unit_rio>
     <valor_total>1066112.41</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25060153720178804145615991579690672409362109</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>125025</número>
-    <natureza_da_operação>VENDAS DE PRODUCAO DO ESTAB</natureza_da_operação>
-    <data_emissão>2025-06-14 11:24:27</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>125025</n_mero>
+    <natureza_da_opera_o>VENDAS DE PRODUCAO DO ESTAB</natureza_da_opera_o>
+    <data_emiss_o>2025-06-14 11:24:27</data_emiss_o>
     <cpf_cnpj_emitente>01139242000123</cpf_cnpj_emitente>
-    <razão_social_emitente>JOSE BAUER DE ATAYDE &amp; CIA LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>760001231110</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JOSE BAUER DE ATAYDE &amp; CIA LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>760001231110</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SANTO ANTONIO DO ARACANGUA</município_emitente>
-    <cnpj_destinatário>29979036116017</cnpj_destinatário>
-    <nome_destinatário>SUPERINTENDENCIA REGIONAL SUDESTE I</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SANTO ANTONIO DO ARACANGUA</munic_pio_emitente>
+    <cnpj_destinat_rio>29979036116017</cnpj_destinat_rio>
+    <nome_destinat_rio>SUPERINTENDENCIA REGIONAL SUDESTE I</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>AGUA MINERAL NATURAL 20L ARAGUA ALCALINA</descrição_do_produto_serviço>
-    <código_ncm_sh>22011000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>AGUA MINERAL NATURAL 20L ARAGUA ALCALINA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>22011000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Águas minerais e águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas</ncm_sh_tipo_de_produto>
     <cfop>5101</cfop>
     <quantidade>123.57</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>15.17</valor_unitário>
+    <valor_unit_rio>15.17</valor_unit_rio>
     <valor_total>1874.56</valor_total>
   </registro_item>
 </nfe_itens>

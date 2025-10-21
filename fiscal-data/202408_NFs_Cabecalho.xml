@@ -3,323 +3,323 @@
   <registro_cabecalho>
     <chave_de_acesso>24080144572071751634804152592847445030508162</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>93</número>
-    <natureza_da_operação>Venda mercantil para o Estado</natureza_da_operação>
-    <data_emissão>2024-08-13 21:35:53</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>93</n_mero>
+    <natureza_da_opera_o>Venda mercantil para o Estado</natureza_da_opera_o>
+    <data_emiss_o>2024-08-13 21:35:53</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-13 21:40:53</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>01968236000189</cpf_cnpj_emitente>
-    <razão_social_emitente>MENMAR COMERCIO DE ALIMENTOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>86146185</inscrição_estadual_emitente>
+    <raz_o_social_emitente>MENMAR COMERCIO DE ALIMENTOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>86146185</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>SAO GONCALO</município_emitente>
-    <cnpj_destinatário>394502019163</cnpj_destinatário>
-    <nome_destinatário>CENTRO DE INST. ALMIRANTE ALEXANDRINO</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SAO GONCALO</munic_pio_emitente>
+    <cnpj_destinat_rio>394502019163</cnpj_destinat_rio>
+    <nome_destinat_rio>CENTRO DE INST. ALMIRANTE ALEXANDRINO</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>570.88</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080182971393150400961106352405283477217096</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>368082</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-08-05 05:09:10</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>368082</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-08-05 05:09:10</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-05 05:12:10</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>288.58</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080154739392263705757209664590176989250712</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22594</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2024-08-06 22:54:14</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22594</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2024-08-06 22:54:14</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-06 22:56:14</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>394502039784</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>394502039784</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA MARINHA</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>252.71</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080168213357220547913908557742339947095155</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>368082</número>
-    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
-    <data_emissão>2024-08-14 16:36:07</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>368082</n_mero>
+    <natureza_da_opera_o>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_opera_o>
+    <data_emiss_o>2024-08-14 16:36:07</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-14 16:40:07</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
-    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
-    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>112388853119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>CAJAMAR</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>CAJAMAR</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>279.56</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080104934063676674304744022493329963774100</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>243010269</número>
-    <natureza_da_operação>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_operação>
-    <data_emissão>2024-08-30 04:58:18</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>243010269</n_mero>
+    <natureza_da_opera_o>DA DE PRODUCAO DO ESTABELECIMENTO</natureza_da_opera_o>
+    <data_emiss_o>2024-08-30 04:58:18</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-30 05:03:18</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>***.654.363-**</cpf_cnpj_emitente>
-    <razão_social_emitente>MARINILDE BELFORT MATOS</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>MARINILDE BELFORT MATOS</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>SAO LUIS</município_emitente>
-    <cnpj_destinatário>5526783000165</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO LUIS</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000165</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO E ASSISTENCIA SOCIAL, FAMILIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>3732.99</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080163851564647100732122735108785148385895</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2591</número>
-    <natureza_da_operação>Venda de mercadoria</natureza_da_operação>
-    <data_emissão>2024-08-11 19:27:27</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2591</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria</natureza_da_opera_o>
+    <data_emiss_o>2024-08-11 19:27:27</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-11 19:32:27</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>32969749000138</cpf_cnpj_emitente>
-    <razão_social_emitente>R G XAVIER GUIMARAES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>54080185</inscrição_estadual_emitente>
+    <raz_o_social_emitente>R G XAVIER GUIMARAES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>54080185</inscri_o_estadual_emitente>
     <uf_emitente>AM</uf_emitente>
-    <município_emitente>MANAUS</município_emitente>
-    <cnpj_destinatário>9580252000101</cnpj_destinatário>
-    <nome_destinatário>CENTRO DE EMBARCACOES DO COMANDO MILITAR DA AMAZONIA</nome_destinatário>
-    <uf_destinatário>AM</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>MANAUS</munic_pio_emitente>
+    <cnpj_destinat_rio>9580252000101</cnpj_destinat_rio>
+    <nome_destinat_rio>CENTRO DE EMBARCACOES DO COMANDO MILITAR DA AMAZONIA</nome_destinat_rio>
+    <uf_destinat_rio>AM</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>3516.28</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080133722799731825816718102956380052448020</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>100</série>
-    <número>16967</número>
-    <natureza_da_operação>REMESSA - ENTREGA FUTURA</natureza_da_operação>
-    <data_emissão>2024-08-01 13:37:03</data_emissão>
+    <s_rie>100</s_rie>
+    <n_mero>16967</n_mero>
+    <natureza_da_opera_o>REMESSA - ENTREGA FUTURA</natureza_da_opera_o>
+    <data_emiss_o>2024-08-01 13:37:03</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-01 13:39:03</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>61186490000157</cpf_cnpj_emitente>
-    <razão_social_emitente>EDITORA FTD S.A.</razão_social_emitente>
-    <inscrição_estadual_emitente>104639530113</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EDITORA FTD S.A.</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>104639530113</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SAO PAULO</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>280301.12</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080135625945906579360115497296037872112675</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>2771</número>
-    <natureza_da_operação>Venda</natureza_da_operação>
-    <data_emissão>2024-08-03 00:40:23</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>2771</n_mero>
+    <natureza_da_opera_o>Venda</natureza_da_opera_o>
+    <data_emiss_o>2024-08-03 00:40:23</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-03 00:46:23</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>00321961000106</cpf_cnpj_emitente>
-    <razão_social_emitente>M SOUSA LIMA</razão_social_emitente>
-    <inscrição_estadual_emitente>121397777</inscrição_estadual_emitente>
+    <raz_o_social_emitente>M SOUSA LIMA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>121397777</inscri_o_estadual_emitente>
     <uf_emitente>MA</uf_emitente>
-    <município_emitente>IMPERATRIZ</município_emitente>
-    <cnpj_destinatário>10735145000518</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinatário>
-    <uf_destinatário>MA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>IMPERATRIZ</munic_pio_emitente>
+    <cnpj_destinat_rio>10735145000518</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO MARANH</nome_destinat_rio>
+    <uf_destinat_rio>MA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>400.01</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080129571791077204454332216145230298648517</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>401949</número>
-    <natureza_da_operação>VENDA MERC. ADQ. REC. TERC. REM. ANT. CONS. MERC.</natureza_da_operação>
-    <data_emissão>2024-08-02 23:33:43</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>401949</n_mero>
+    <natureza_da_opera_o>VENDA MERC. ADQ. REC. TERC. REM. ANT. CONS. MERC.</natureza_da_opera_o>
+    <data_emiss_o>2024-08-02 23:33:43</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-02 23:43:43</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>01772798000667</cpf_cnpj_emitente>
-    <razão_social_emitente>MEDTRONIC COMERCIAL LTDA.</razão_social_emitente>
-    <inscrição_estadual_emitente>492949734117</inscrição_estadual_emitente>
+    <raz_o_social_emitente>MEDTRONIC COMERCIAL LTDA.</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>492949734117</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>OSASCO</município_emitente>
-    <cnpj_destinatário>15180714000520</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DA BAHIA</nome_destinatário>
-    <uf_destinatário>BA</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>OSASCO</munic_pio_emitente>
+    <cnpj_destinat_rio>15180714000520</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DA BAHIA</nome_destinat_rio>
+    <uf_destinat_rio>BA</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>6558.25</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080128216320780765000355097319824229190508</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>106</número>
-    <natureza_da_operação>5102/5405/5933/ VENDA MERC. DENT. ESTADO</natureza_da_operação>
-    <data_emissão>2024-08-04 14:04:40</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>106</n_mero>
+    <natureza_da_opera_o>5102/5405/5933/ VENDA MERC. DENT. ESTADO</natureza_da_opera_o>
+    <data_emiss_o>2024-08-04 14:04:40</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-04 14:14:40</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>44232997000180</cpf_cnpj_emitente>
-    <razão_social_emitente>JF CENTRO AUTOMOTIVO LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>100416993</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JF CENTRO AUTOMOTIVO LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>100416993</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>PETROLINA</município_emitente>
-    <cnpj_destinatário>10830301000449</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DO SERTAO PERNAMBUCANO / CAMPUS FLORESTA</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PETROLINA</munic_pio_emitente>
+    <cnpj_destinat_rio>10830301000449</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DO SERTAO PERNAMBUCANO / CAMPUS FLORESTA</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>214.34</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080122509993705986327871319230703189544329</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>291</número>
-    <natureza_da_operação>VENDA INTEREST. DESTINADA A NAO CONTRIBUINTE</natureza_da_operação>
-    <data_emissão>2024-08-07 04:59:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>291</n_mero>
+    <natureza_da_opera_o>VENDA INTEREST. DESTINADA A NAO CONTRIBUINTE</natureza_da_opera_o>
+    <data_emiss_o>2024-08-07 04:59:50</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-07 05:03:50</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>47776164000179</cpf_cnpj_emitente>
-    <razão_social_emitente>WOLVES GROUP AND COLI INK BUSINESS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>9096314830</inscrição_estadual_emitente>
+    <raz_o_social_emitente>WOLVES GROUP AND COLI INK BUSINESS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>9096314830</inscri_o_estadual_emitente>
     <uf_emitente>PR</uf_emitente>
-    <município_emitente>MARINGA</município_emitente>
-    <cnpj_destinatário>10271737000100</cnpj_destinatário>
-    <nome_destinatário>12 REGIMENTO DE CAVALARIA MECANIZADO</nome_destinatário>
-    <uf_destinatário>RS</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MARINGA</munic_pio_emitente>
+    <cnpj_destinat_rio>10271737000100</cnpj_destinat_rio>
+    <nome_destinat_rio>12 REGIMENTO DE CAVALARIA MECANIZADO</nome_destinat_rio>
+    <uf_destinat_rio>RS</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>620.77</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080129412869626292454682978789446285434204</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>27161</número>
-    <natureza_da_operação>BONIFICACAO</natureza_da_operação>
-    <data_emissão>2024-08-07 11:47:45</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>27161</n_mero>
+    <natureza_da_opera_o>BONIFICACAO</natureza_da_opera_o>
+    <data_emiss_o>2024-08-07 11:47:45</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-07 11:52:45</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>11637221000191</cpf_cnpj_emitente>
-    <razão_social_emitente>PROMOVENDO COM. E REPRES. DE MATERIAL HOSP. LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>78995734</inscrição_estadual_emitente>
+    <raz_o_social_emitente>PROMOVENDO COM. E REPRES. DE MATERIAL HOSP. LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>78995734</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>394429006575</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL CENTRAL DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>394429006575</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL CENTRAL DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>81.0</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080133636241404711409978227903993665883821</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>100</série>
-    <número>16967</número>
-    <natureza_da_operação>REMESSA - ENTREGA FUTURA</natureza_da_operação>
-    <data_emissão>2024-08-31 07:44:08</data_emissão>
+    <s_rie>100</s_rie>
+    <n_mero>16967</n_mero>
+    <natureza_da_opera_o>REMESSA - ENTREGA FUTURA</natureza_da_opera_o>
+    <data_emiss_o>2024-08-31 07:44:08</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-31 07:46:08</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>61186490000157</cpf_cnpj_emitente>
-    <razão_social_emitente>EDITORA FTD S.A.</razão_social_emitente>
-    <inscrição_estadual_emitente>104639530113</inscrição_estadual_emitente>
+    <raz_o_social_emitente>EDITORA FTD S.A.</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>104639530113</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SAO PAULO</município_emitente>
-    <cnpj_destinatário>378257000181</cnpj_destinatário>
-    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>378257000181</cnpj_destinat_rio>
+    <nome_destinat_rio>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>289411.61</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>24080173104426186199105082373222329823548107</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>890</série>
-    <número>8425261</número>
-    <natureza_da_operação>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_operação>
-    <data_emissão>2024-08-15 07:35:10</data_emissão>
+    <s_rie>890</s_rie>
+    <n_mero>8425261</n_mero>
+    <natureza_da_opera_o>Venda de mercadoria adquirida ou recebida de terceiros</natureza_da_opera_o>
+    <data_emiss_o>2024-08-15 07:35:10</data_emiss_o>
     <evento_mais_recente>Autorização de Uso</evento_mais_recente>
     <data_hora_evento_mais_recente>2024-08-15 07:43:10</data_hora_evento_mais_recente>
     <cpf_cnpj_emitente>50500312000132</cpf_cnpj_emitente>
-    <razão_social_emitente>50.500.312 LEANDRO PIMENTEL CORREA DE SA</razão_social_emitente>
-    <inscrição_estadual_emitente>13007411</inscrição_estadual_emitente>
+    <raz_o_social_emitente>50.500.312 LEANDRO PIMENTEL CORREA DE SA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>13007411</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>33781055004980</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>33781055004980</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO DE TECNOLOGIA EM FÁRMACOS</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>520.68</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>

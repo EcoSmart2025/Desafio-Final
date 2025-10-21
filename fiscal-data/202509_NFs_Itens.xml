@@ -3,581 +3,581 @@
   <registro_item>
     <chave_de_acesso>25090149015383333884931886003006514379346299</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>4162</número>
-    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
-    <data_emissão>2025-09-27 04:52:58</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>4162</n_mero>
+    <natureza_da_opera_o>VENDA DE MERCADORIA</natureza_da_opera_o>
+    <data_emiss_o>2025-09-27 04:52:58</data_emiss_o>
     <cpf_cnpj_emitente>21793208000185</cpf_cnpj_emitente>
-    <razão_social_emitente>DF MAQUINAS E FERRAMENTAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>771188900164</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DF MAQUINAS E FERRAMENTAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>771188900164</inscri_o_estadual_emitente>
     <uf_emitente>DF</uf_emitente>
-    <município_emitente>BRASILIA</município_emitente>
-    <cnpj_destinatário>394544004504</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE</nome_destinatário>
-    <uf_destinatário>MT</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>BRASILIA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004504</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE</nome_destinat_rio>
+    <uf_destinat_rio>MT</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>DETERGENTE LIQUIDO CONCENTRADO PH NEUTRO (EMB. C/ 5L)</descrição_do_produto_serviço>
-    <código_ncm_sh>34029039</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>DETERGENTE LIQUIDO CONCENTRADO PH NEUTRO (EMB. C/ 5L)</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>34029039</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras preparações para lavagem (detergentes)</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>25.16</quantidade>
     <unidade>EMBALA</unidade>
-    <valor_unitário>95.24</valor_unitário>
+    <valor_unit_rio>95.24</valor_unit_rio>
     <valor_total>2396.24</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090198074154268317490406315510317896963109</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>3</série>
-    <número>2807</número>
-    <natureza_da_operação>VENDA MERCADORIA ADQUIRIDA/RECEBIDA DE TERCEIROS</natureza_da_operação>
-    <data_emissão>2025-09-14 09:19:04</data_emissão>
+    <s_rie>3</s_rie>
+    <n_mero>2807</n_mero>
+    <natureza_da_opera_o>VENDA MERCADORIA ADQUIRIDA/RECEBIDA DE TERCEIROS</natureza_da_opera_o>
+    <data_emiss_o>2025-09-14 09:19:04</data_emiss_o>
     <cpf_cnpj_emitente>05082751000118</cpf_cnpj_emitente>
-    <razão_social_emitente>DELICIA DO NORTE COMERCIO, SERVICOS E REPRESENTACAO DE PRODU</razão_social_emitente>
-    <inscrição_estadual_emitente>3734901</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DELICIA DO NORTE COMERCIO, SERVICOS E REPRESENTACAO DE PRODU</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>3734901</inscri_o_estadual_emitente>
     <uf_emitente>RO</uf_emitente>
-    <município_emitente>PORTO VELHO</município_emitente>
-    <cnpj_destinatário>394429019200</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA.</nome_destinatário>
-    <uf_destinatário>RO</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PORTO VELHO</munic_pio_emitente>
+    <cnpj_destinat_rio>394429019200</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA.</nome_destinat_rio>
+    <uf_destinat_rio>RO</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>ARROZ BRANCO (TIPO 1) EMB. CONTENDO 5 KG</descrição_do_produto_serviço>
-    <código_ncm_sh>10063021</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>ARROZ BRANCO (TIPO 1) EMB. CONTENDO 5 KG</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>10063021</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Arroz semibranqueado ou branqueado, não parboilizado, polido ou brunido</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>10.54</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>17.18</valor_unitário>
+    <valor_unit_rio>17.18</valor_unit_rio>
     <valor_total>181.08</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-09-16 23:11:46</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-09-16 23:11:46</data_emiss_o>
     <cpf_cnpj_emitente>00323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>CJ HELANCA AZUL ROYAL M</descrição_do_produto_serviço>
-    <código_ncm_sh>63090010</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>CJ HELANCA AZUL ROYAL M</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>63090010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Vestuário, seus acessórios e suas partes, usados</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>8.03</quantidade>
     <unidade>CJ</unidade>
-    <valor_unitário>45.12</valor_unitário>
+    <valor_unit_rio>45.12</valor_unit_rio>
     <valor_total>362.31</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-09-16 23:11:46</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-09-16 23:11:46</data_emiss_o>
     <cpf_cnpj_emitente>00323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>BOTA PVC CANO CURTO PTO 38</descrição_do_produto_serviço>
-    <código_ncm_sh>64019200</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>BOTA PVC CANO CURTO PTO 38</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>64019200</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Calçados impermeáveis de borracha/plástico cobrindo tornozelo</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.12</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>32.51</valor_unitário>
+    <valor_unit_rio>32.51</valor_unit_rio>
     <valor_total>36.41</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-09-16 23:11:46</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-09-16 23:11:46</data_emiss_o>
     <cpf_cnpj_emitente>00323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>MEIA ESPORTIVA BRANCA</descrição_do_produto_serviço>
-    <código_ncm_sh>61159900</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>MEIA ESPORTIVA BRANCA</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>61159900</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras meias de malha de outras matérias têxteis</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>14.76</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>3.42</valor_unitário>
+    <valor_unit_rio>3.42</valor_unit_rio>
     <valor_total>50.48</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-09-16 23:11:46</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-09-16 23:11:46</data_emiss_o>
     <cpf_cnpj_emitente>00323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>BOTA PVC CANO CURTO PTO 37</descrição_do_produto_serviço>
-    <código_ncm_sh>64019200</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>BOTA PVC CANO CURTO PTO 37</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>64019200</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Calçados impermeáveis de borracha/plástico cobrindo tornozelo</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>0.96</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>36.25</valor_unitário>
+    <valor_unit_rio>36.25</valor_unit_rio>
     <valor_total>34.8</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>77831</número>
-    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
-    <data_emissão>2025-09-16 23:11:46</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>77831</n_mero>
+    <natureza_da_opera_o>REMES MAT PREST SERV</natureza_da_opera_o>
+    <data_emiss_o>2025-09-16 23:11:46</data_emiss_o>
     <cpf_cnpj_emitente>00323090000151</cpf_cnpj_emitente>
-    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <raz_o_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>23874090</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>OLINDA</município_emitente>
-    <cnpj_destinatário>394544004172</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>OLINDA</munic_pio_emitente>
+    <cnpj_destinat_rio>394544004172</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>BOTA PVC CANO CURTO PTO 36</descrição_do_produto_serviço>
-    <código_ncm_sh>64019200</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>BOTA PVC CANO CURTO PTO 36</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>64019200</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Calçados impermeáveis de borracha/plástico cobrindo tornozelo</ncm_sh_tipo_de_produto>
     <cfop>5949</cfop>
     <quantidade>1.71</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>30.31</valor_unitário>
+    <valor_unit_rio>30.31</valor_unit_rio>
     <valor_total>51.83</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090102748563408488580645238497656224883207</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>2</série>
-    <número>14163</número>
-    <natureza_da_operação>5656 Venda de combustivel ou lubrificante, adquiridos ou re</natureza_da_operação>
-    <data_emissão>2025-09-05 02:35:36</data_emissão>
+    <s_rie>2</s_rie>
+    <n_mero>14163</n_mero>
+    <natureza_da_opera_o>5656 Venda de combustivel ou lubrificante, adquiridos ou re</natureza_da_opera_o>
+    <data_emiss_o>2025-09-05 02:35:36</data_emiss_o>
     <cpf_cnpj_emitente>29111673000109</cpf_cnpj_emitente>
-    <razão_social_emitente>DUME COMBUSTIVEIS BARRA DO GARCAS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>137367414</inscrição_estadual_emitente>
+    <raz_o_social_emitente>DUME COMBUSTIVEIS BARRA DO GARCAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>137367414</inscri_o_estadual_emitente>
     <uf_emitente>MT</uf_emitente>
-    <município_emitente>BARRA DO GARCAS</município_emitente>
-    <cnpj_destinatário>394429004017</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERON&amp;AACUTE;UTICA</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>BARRA DO GARCAS</munic_pio_emitente>
+    <cnpj_destinat_rio>394429004017</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERON&amp;AACUTE;UTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>OLEO DIESEL S10</descrição_do_produto_serviço>
-    <código_ncm_sh>27101921</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>OLEO DIESEL S10</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>27101921</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Gasóleo (óleo diesel)</ncm_sh_tipo_de_produto>
     <cfop>5656</cfop>
     <quantidade>128.86</quantidade>
     <unidade>LITRO</unidade>
-    <valor_unitário>5.67</valor_unitário>
+    <valor_unit_rio>5.67</valor_unit_rio>
     <valor_total>730.64</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090134564245355350000414313604729654982919</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>106</número>
-    <natureza_da_operação>5102/5405/5933/ VENDA MERC. DENT. ESTADO</natureza_da_operação>
-    <data_emissão>2025-09-06 23:36:50</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>106</n_mero>
+    <natureza_da_opera_o>5102/5405/5933/ VENDA MERC. DENT. ESTADO</natureza_da_opera_o>
+    <data_emiss_o>2025-09-06 23:36:50</data_emiss_o>
     <cpf_cnpj_emitente>44232997000180</cpf_cnpj_emitente>
-    <razão_social_emitente>JF CENTRO AUTOMOTIVO LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>100416993</inscrição_estadual_emitente>
+    <raz_o_social_emitente>JF CENTRO AUTOMOTIVO LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>100416993</inscri_o_estadual_emitente>
     <uf_emitente>PE</uf_emitente>
-    <município_emitente>PETROLINA</município_emitente>
-    <cnpj_destinatário>10830301000449</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DO SERTAO PERNAMBUCANO / CAMPUS FLORESTA</nome_destinatário>
-    <uf_destinatário>PE</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>PETROLINA</munic_pio_emitente>
+    <cnpj_destinat_rio>10830301000449</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DO SERTAO PERNAMBUCANO / CAMPUS FLORESTA</nome_destinat_rio>
+    <uf_destinat_rio>PE</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>OLEO TRANSMISSAO MINERAL GL4 SAE80W/HEXXLUB</descrição_do_produto_serviço>
-    <código_ncm_sh>27101932</código_ncm_sh>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>OLEO TRANSMISSAO MINERAL GL4 SAE80W/HEXXLUB</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>27101932</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Óleos lubrificantes com aditivos</ncm_sh_tipo_de_produto>
     <cfop>5405</cfop>
     <quantidade>4.7</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>33.61</valor_unitário>
+    <valor_unit_rio>33.61</valor_unit_rio>
     <valor_total>157.97</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090115009376816425349943563980361662951515</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>892</série>
-    <número>900184583</número>
-    <natureza_da_operação>VENDA</natureza_da_operação>
-    <data_emissão>2025-09-12 23:53:07</data_emissão>
+    <s_rie>892</s_rie>
+    <n_mero>900184583</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2025-09-12 23:53:07</data_emiss_o>
     <cpf_cnpj_emitente>***.892.434-**</cpf_cnpj_emitente>
-    <razão_social_emitente>ALEXSANDRO BARBOSA LAURENTINO</razão_social_emitente>
-    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <raz_o_social_emitente>ALEXSANDRO BARBOSA LAURENTINO</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
     <uf_emitente>PB</uf_emitente>
-    <município_emitente>MARI</município_emitente>
-    <cnpj_destinatário>5526783000408</cnpj_destinatário>
-    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
-    <uf_destinatário>DF</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>MARI</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>BATATA DOCE</descrição_do_produto_serviço>
-    <código_ncm_sh>7142000</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>BATATA DOCE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7142000</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Batatas-doces, frescas, refrigeradas, congeladas ou secas</ncm_sh_tipo_de_produto>
     <cfop>6101</cfop>
     <quantidade>571.94</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>3.46</valor_unitário>
+    <valor_unit_rio>3.46</valor_unit_rio>
     <valor_total>1978.91</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2025-09-22 08:00:33</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2025-09-22 08:00:33</data_emiss_o>
     <cpf_cnpj_emitente>03605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>PERJETA 420 MG SOL INJ ROCHE</descrição_do_produto_serviço>
-    <código_ncm_sh>30021590</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>PERJETA 420 MG SOL INJ ROCHE</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30021590</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros produtos imunológicos, apresentados em doses ou acondicionados para venda a retalho</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>0.91</quantidade>
     <unidade>FA</unidade>
-    <valor_unitário>11248.17</valor_unitário>
+    <valor_unit_rio>11248.17</valor_unit_rio>
     <valor_total>10235.83</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2025-09-22 08:00:33</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2025-09-22 08:00:33</data_emiss_o>
     <cpf_cnpj_emitente>03605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>BIO MANGUINHOS TRASTUZUMABE 150MG FR</descrição_do_produto_serviço>
-    <código_ncm_sh>30049099</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>BIO MANGUINHOS TRASTUZUMABE 150MG FR</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30049099</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros medicamentos contendo produtos para fins terapêuticos, etc, doses</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>3.21</quantidade>
     <unidade>FR</unidade>
-    <valor_unitário>1137.51</valor_unitário>
+    <valor_unit_rio>1137.51</valor_unit_rio>
     <valor_total>3651.41</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2025-09-22 08:00:33</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2025-09-22 08:00:33</data_emiss_o>
     <cpf_cnpj_emitente>03605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>B-PLATIN 450 MG PO LIOF BLAU</descrição_do_produto_serviço>
-    <código_ncm_sh>30049099</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>B-PLATIN 450 MG PO LIOF BLAU</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30049099</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros medicamentos contendo produtos para fins terapêuticos, etc, doses</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>0.93</quantidade>
     <unidade>FA</unidade>
-    <valor_unitário>112.6</valor_unitário>
+    <valor_unit_rio>112.6</valor_unit_rio>
     <valor_total>104.72</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2025-09-22 08:00:33</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2025-09-22 08:00:33</data_emiss_o>
     <cpf_cnpj_emitente>03605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>4</número_produto>
-    <descrição_do_produto_serviço>PACLITAXEL ACCORD 100 MG SOL INJ</descrição_do_produto_serviço>
-    <código_ncm_sh>30049041</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>4</n_mero_produto>
+    <descri_o_do_produto_servi_o>PACLITAXEL ACCORD 100 MG SOL INJ</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>30049041</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Medicamentos contendo metoclopramida/cloridrato, etc, em doses</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>2.9</quantidade>
     <unidade>FA</unidade>
-    <valor_unitário>40.99</valor_unitário>
+    <valor_unit_rio>40.99</valor_unit_rio>
     <valor_total>118.87</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>0</série>
-    <número>129832</número>
-    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
-    <data_emissão>2025-09-22 08:00:33</data_emissão>
+    <s_rie>0</s_rie>
+    <n_mero>129832</n_mero>
+    <natureza_da_opera_o>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_opera_o>
+    <data_emiss_o>2025-09-22 08:00:33</data_emiss_o>
     <cpf_cnpj_emitente>03605534000130</cpf_cnpj_emitente>
-    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <raz_o_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>77899618</inscri_o_estadual_emitente>
     <uf_emitente>RJ</uf_emitente>
-    <município_emitente>RIO DE JANEIRO</município_emitente>
-    <cnpj_destinatário>34023077000280</cnpj_destinatário>
-    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
-    <uf_destinatário>RJ</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>RIO DE JANEIRO</munic_pio_emitente>
+    <cnpj_destinat_rio>34023077000280</cnpj_destinat_rio>
+    <nome_destinat_rio>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinat_rio>
+    <uf_destinat_rio>RJ</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>5</número_produto>
-    <descrição_do_produto_serviço>EQUIPO BOMBA INFUSOMAT PLUS SET AIR IL PCV FREE - 441704PL</descrição_do_produto_serviço>
-    <código_ncm_sh>90189010</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>5</n_mero_produto>
+    <descri_o_do_produto_servi_o>EQUIPO BOMBA INFUSOMAT PLUS SET AIR IL PCV FREE - 441704PL</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90189010</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros instrumentos e aparelhos para transfusão de sangue ou infusão intravenosa</ncm_sh_tipo_de_produto>
     <cfop>1949</cfop>
     <quantidade>1.03</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>48.38</valor_unitário>
+    <valor_unit_rio>48.38</valor_unit_rio>
     <valor_total>49.83</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090114143090572274861868351736622060214891</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>22661</número>
-    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
-    <data_emissão>2025-09-25 16:43:33</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>22661</n_mero>
+    <natureza_da_opera_o>5102 Venda Interna Normal</natureza_da_opera_o>
+    <data_emiss_o>2025-09-25 16:43:33</data_emiss_o>
     <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
-    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
-    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <raz_o_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>204169810</inscri_o_estadual_emitente>
     <uf_emitente>RN</uf_emitente>
-    <município_emitente>NATAL</município_emitente>
-    <cnpj_destinatário>24365710000183</cnpj_destinatário>
-    <nome_destinatário>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinatário>
-    <uf_destinatário>RN</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>NATAL</munic_pio_emitente>
+    <cnpj_destinat_rio>24365710000183</cnpj_destinat_rio>
+    <nome_destinat_rio>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinat_rio>
+    <uf_destinat_rio>RN</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>ALHO BRANCO</descrição_do_produto_serviço>
-    <código_ncm_sh>7032090</código_ncm_sh>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>ALHO BRANCO</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>7032090</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Alhos, frescos ou refrigerados, exceto para semeadura</ncm_sh_tipo_de_produto>
     <cfop>5102</cfop>
     <quantidade>3.76</quantidade>
     <unidade>KG</unidade>
-    <valor_unitário>17.52</valor_unitário>
+    <valor_unit_rio>17.52</valor_unit_rio>
     <valor_total>65.88</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090160743582046146091816619243812439329114</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>1</série>
-    <número>115</número>
-    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
-    <data_emissão>2025-09-02 22:01:13</data_emissão>
+    <s_rie>1</s_rie>
+    <n_mero>115</n_mero>
+    <natureza_da_opera_o>Venda Fora do Estado</natureza_da_opera_o>
+    <data_emiss_o>2025-09-02 22:01:13</data_emiss_o>
     <cpf_cnpj_emitente>51607431000151</cpf_cnpj_emitente>
-    <razão_social_emitente>F &amp; K BRASIL LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>200619381</inscrição_estadual_emitente>
+    <raz_o_social_emitente>F &amp; K BRASIL LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>200619381</inscri_o_estadual_emitente>
     <uf_emitente>GO</uf_emitente>
-    <município_emitente>GOIANIA</município_emitente>
-    <cnpj_destinatário>10626896000687</cnpj_destinatário>
-    <nome_destinatário>INSTITUTO FEDERAL DE EDUCAÇÃO - CAMPUS SJE</nome_destinatário>
-    <uf_destinatário>MG</uf_destinatário>
-    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
-    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <munic_pio_emitente>GOIANIA</munic_pio_emitente>
+    <cnpj_destinat_rio>10626896000687</cnpj_destinat_rio>
+    <nome_destinat_rio>INSTITUTO FEDERAL DE EDUCAÇÃO - CAMPUS SJE</nome_destinat_rio>
+    <uf_destinat_rio>MG</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ICMS</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>Galaxy M54 5G Azul 128GB</descrição_do_produto_serviço>
-    <código_ncm_sh>85171300</código_ncm_sh>
+    <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>Galaxy M54 5G Azul 128GB</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>85171300</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>nan</ncm_sh_tipo_de_produto>
     <cfop>6108</cfop>
     <quantidade>2.89</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>1651.94</valor_unitário>
+    <valor_unit_rio>1651.94</valor_unit_rio>
     <valor_total>4774.11</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090180927284068395192358376841994919708821</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>3</série>
-    <número>134416</número>
-    <natureza_da_operação>REMESSA EM COMODATO</natureza_da_operação>
-    <data_emissão>2025-09-18 11:57:54</data_emissão>
+    <s_rie>3</s_rie>
+    <n_mero>134416</n_mero>
+    <natureza_da_opera_o>REMESSA EM COMODATO</natureza_da_opera_o>
+    <data_emiss_o>2025-09-18 11:57:54</data_emiss_o>
     <cpf_cnpj_emitente>01559403000138</cpf_cnpj_emitente>
-    <razão_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>148787084119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>148787084119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SAO PAULO</município_emitente>
-    <cnpj_destinatário>394429010688</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>394429010688</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>1</número_produto>
-    <descrição_do_produto_serviço>BOMBA DE INFUSAO POWERPUMP LT - Lote:0408CE627 - Valid:31/12/2049 - Ref.: 906058</descrição_do_produto_serviço>
-    <código_ncm_sh>90189099</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>1</n_mero_produto>
+    <descri_o_do_produto_servi_o>BOMBA DE INFUSAO POWERPUMP LT - Lote:0408CE627 - Valid:31/12/2049 - Ref.: 906058</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90189099</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outros instrumentos e aparelhos para medicina, cirurgia, etc</ncm_sh_tipo_de_produto>
     <cfop>5908</cfop>
     <quantidade>0.99</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>8432.56</valor_unitário>
+    <valor_unit_rio>8432.56</valor_unit_rio>
     <valor_total>8348.23</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090180927284068395192358376841994919708821</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>3</série>
-    <número>134416</número>
-    <natureza_da_operação>REMESSA EM COMODATO</natureza_da_operação>
-    <data_emissão>2025-09-18 11:57:54</data_emissão>
+    <s_rie>3</s_rie>
+    <n_mero>134416</n_mero>
+    <natureza_da_opera_o>REMESSA EM COMODATO</natureza_da_opera_o>
+    <data_emiss_o>2025-09-18 11:57:54</data_emiss_o>
     <cpf_cnpj_emitente>01559403000138</cpf_cnpj_emitente>
-    <razão_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>148787084119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>148787084119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SAO PAULO</município_emitente>
-    <cnpj_destinatário>394429010688</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>394429010688</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>2</número_produto>
-    <descrição_do_produto_serviço>CABO P/ BOMBA - Lote:S/N - Valid:31/12/2049 - Ref.: Z0102-01</descrição_do_produto_serviço>
-    <código_ncm_sh>90181910</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>2</n_mero_produto>
+    <descri_o_do_produto_servi_o>CABO P/ BOMBA - Lote:S/N - Valid:31/12/2049 - Ref.: Z0102-01</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90181910</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Endoscópios</ncm_sh_tipo_de_produto>
     <cfop>5908</cfop>
     <quantidade>1.1</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>141.75</valor_unitário>
+    <valor_unit_rio>141.75</valor_unit_rio>
     <valor_total>155.93</valor_total>
   </registro_item>
   <registro_item>
     <chave_de_acesso>25090180927284068395192358376841994919708821</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
-    <série>3</série>
-    <número>134416</número>
-    <natureza_da_operação>REMESSA EM COMODATO</natureza_da_operação>
-    <data_emissão>2025-09-18 11:57:54</data_emissão>
+    <s_rie>3</s_rie>
+    <n_mero>134416</n_mero>
+    <natureza_da_opera_o>REMESSA EM COMODATO</natureza_da_opera_o>
+    <data_emiss_o>2025-09-18 11:57:54</data_emiss_o>
     <cpf_cnpj_emitente>01559403000138</cpf_cnpj_emitente>
-    <razão_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</razão_social_emitente>
-    <inscrição_estadual_emitente>148787084119</inscrição_estadual_emitente>
+    <raz_o_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>148787084119</inscri_o_estadual_emitente>
     <uf_emitente>SP</uf_emitente>
-    <município_emitente>SAO PAULO</município_emitente>
-    <cnpj_destinatário>394429010688</cnpj_destinatário>
-    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
-    <uf_destinatário>SP</uf_destinatário>
-    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
-    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>394429010688</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
-    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
-    <número_produto>3</número_produto>
-    <descrição_do_produto_serviço>CASE P/ BOMBA DE INFUSAO (W.O.M) - Lote:CASE - Valid:31/12/2049 - Anvisa:0 - Ref.: MK0054003</descrição_do_produto_serviço>
-    <código_ncm_sh>90213999</código_ncm_sh>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <n_mero_produto>3</n_mero_produto>
+    <descri_o_do_produto_servi_o>CASE P/ BOMBA DE INFUSAO (W.O.M) - Lote:CASE - Valid:31/12/2049 - Anvisa:0 - Ref.: MK0054003</descri_o_do_produto_servi_o>
+    <c_digo_ncm_sh>90213999</c_digo_ncm_sh>
     <ncm_sh_tipo_de_produto>Outras partes/acessórios de artigos e aparelhos de prótese</ncm_sh_tipo_de_produto>
     <cfop>5908</cfop>
     <quantidade>0.81</quantidade>
     <unidade>UNIDAD</unidade>
-    <valor_unitário>554.35</valor_unitário>
+    <valor_unit_rio>554.35</valor_unit_rio>
     <valor_total>449.02</valor_total>
   </registro_item>
 </nfe_itens>
