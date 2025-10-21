@@ -1,0 +1,302 @@
+<?xml version="1.0" ?>
+<nfe_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090149015383333884931886003006514379346299</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>4162</número>
+    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
+    <data_emissão>2025-09-27 04:52:58</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-27 04:58:58</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>21793208000185</cpf_cnpj_emitente>
+    <razão_social_emitente>DF MAQUINAS E FERRAMENTAS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>771188900164</inscrição_estadual_emitente>
+    <uf_emitente>DF</uf_emitente>
+    <município_emitente>BRASILIA</município_emitente>
+    <cnpj_destinatário>394544004504</cnpj_destinatário>
+    <nome_destinatário>MINISTERIO DA SAUDE</nome_destinatário>
+    <uf_destinatário>MT</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>2396.24</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090198074154268317490406315510317896963109</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>3</série>
+    <número>2807</número>
+    <natureza_da_operação>VENDA MERCADORIA ADQUIRIDA/RECEBIDA DE TERCEIROS</natureza_da_operação>
+    <data_emissão>2025-09-14 09:19:04</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-14 09:28:04</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>05082751000118</cpf_cnpj_emitente>
+    <razão_social_emitente>DELICIA DO NORTE COMERCIO, SERVICOS E REPRESENTACAO DE PRODU</razão_social_emitente>
+    <inscrição_estadual_emitente>3734901</inscrição_estadual_emitente>
+    <uf_emitente>RO</uf_emitente>
+    <município_emitente>PORTO VELHO</município_emitente>
+    <cnpj_destinatário>394429019200</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERONAUTICA.</nome_destinatário>
+    <uf_destinatário>RO</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>0 - NORMAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>151.46</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>77831</número>
+    <natureza_da_operação>REMES MAT PREST SERV</natureza_da_operação>
+    <data_emissão>2025-09-16 23:11:46</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-16 23:15:46</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>00323090000151</cpf_cnpj_emitente>
+    <razão_social_emitente>SOLL -SERVICOS OBRAS E LOCACOES LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>23874090</inscrição_estadual_emitente>
+    <uf_emitente>PE</uf_emitente>
+    <município_emitente>OLINDA</município_emitente>
+    <cnpj_destinatário>394544004172</cnpj_destinatário>
+    <nome_destinatário>MINISTERIO DA SAUDE DISTRITO SANITARIO ESPECIAL INDIGENA PE</nome_destinatário>
+    <uf_destinatário>PE</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <valor_nota_fiscal>508.62</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090102748563408488580645238497656224883207</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>2</série>
+    <número>14163</número>
+    <natureza_da_operação>5656 Venda de combustivel ou lubrificante, adquiridos ou re</natureza_da_operação>
+    <data_emissão>2025-09-05 02:35:36</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-05 02:45:36</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>29111673000109</cpf_cnpj_emitente>
+    <razão_social_emitente>DUME COMBUSTIVEIS BARRA DO GARCAS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>137367414</inscrição_estadual_emitente>
+    <uf_emitente>MT</uf_emitente>
+    <município_emitente>BARRA DO GARCAS</município_emitente>
+    <cnpj_destinatário>394429004017</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERON&amp;AACUTE;UTICA</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>730.64</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090134564245355350000414313604729654982919</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>106</número>
+    <natureza_da_operação>5102/5405/5933/ VENDA MERC. DENT. ESTADO</natureza_da_operação>
+    <data_emissão>2025-09-06 23:36:50</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-06 23:37:50</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>44232997000180</cpf_cnpj_emitente>
+    <razão_social_emitente>JF CENTRO AUTOMOTIVO LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>100416993</inscrição_estadual_emitente>
+    <uf_emitente>PE</uf_emitente>
+    <município_emitente>PETROLINA</município_emitente>
+    <cnpj_destinatário>10830301000449</cnpj_destinatário>
+    <nome_destinatário>INSTITUTO FEDERAL DO SERTAO PERNAMBUCANO / CAMPUS FLORESTA</nome_destinatário>
+    <uf_destinatário>PE</uf_destinatário>
+    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>157.97</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090115009376816425349943563980361662951515</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>892</série>
+    <número>900184583</número>
+    <natureza_da_operação>VENDA</natureza_da_operação>
+    <data_emissão>2025-09-12 23:53:07</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-12 23:57:07</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>***.892.434-**</cpf_cnpj_emitente>
+    <razão_social_emitente>ALEXSANDRO BARBOSA LAURENTINO</razão_social_emitente>
+    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <uf_emitente>PB</uf_emitente>
+    <município_emitente>MARI</município_emitente>
+    <cnpj_destinatário>5526783000408</cnpj_destinatário>
+    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>2014.63</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>0</série>
+    <número>129832</número>
+    <natureza_da_operação>Outra entrada de mercadoria ou prestacao de servico nao espe</natureza_da_operação>
+    <data_emissão>2025-09-22 08:00:33</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-22 08:02:33</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>03605534000130</cpf_cnpj_emitente>
+    <razão_social_emitente>AVFARMA ASSIST. SERV. FARMACEUTICOS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>77899618</inscrição_estadual_emitente>
+    <uf_emitente>RJ</uf_emitente>
+    <município_emitente>RIO DE JANEIRO</município_emitente>
+    <cnpj_destinatário>34023077000280</cnpj_destinatário>
+    <nome_destinatário>HOSPITAL UNIVERSITARIO GAFFREE E GUINLE</nome_destinatário>
+    <uf_destinatário>RJ</uf_destinatário>
+    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>0 - NORMAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>14160.66</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090114143090572274861868351736622060214891</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>22661</número>
+    <natureza_da_operação>5102 Venda Interna Normal</natureza_da_operação>
+    <data_emissão>2025-09-25 16:43:33</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-25 16:45:33</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>21172344000158</cpf_cnpj_emitente>
+    <razão_social_emitente>J NUNES DISTRIBUIDORA DE ALIMENTOS EIRELI</razão_social_emitente>
+    <inscrição_estadual_emitente>204169810</inscrição_estadual_emitente>
+    <uf_emitente>RN</uf_emitente>
+    <município_emitente>NATAL</município_emitente>
+    <cnpj_destinatário>24365710000183</cnpj_destinatário>
+    <nome_destinatário>UNIVERSIDADE FEDERAL DO RIO GRANDE NORTE</nome_destinatário>
+    <uf_destinatário>RN</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>57.22</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090160743582046146091816619243812439329114</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>115</número>
+    <natureza_da_operação>Venda Fora do Estado</natureza_da_operação>
+    <data_emissão>2025-09-02 22:01:13</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-02 22:08:13</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>51607431000151</cpf_cnpj_emitente>
+    <razão_social_emitente>F &amp; K BRASIL LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>200619381</inscrição_estadual_emitente>
+    <uf_emitente>GO</uf_emitente>
+    <município_emitente>GOIANIA</município_emitente>
+    <cnpj_destinatário>10626896000687</cnpj_destinatário>
+    <nome_destinatário>INSTITUTO FEDERAL DE EDUCAÇÃO - CAMPUS SJE</nome_destinatário>
+    <uf_destinatário>MG</uf_destinatário>
+    <indicador_ie_destinatário>CONTRIBUINTE ICMS</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presença_do_comprador>
+    <valor_nota_fiscal>4774.11</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090180927284068395192358376841994919708821</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>3</série>
+    <número>134416</número>
+    <natureza_da_operação>REMESSA EM COMODATO</natureza_da_operação>
+    <data_emissão>2025-09-18 11:57:54</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-18 12:07:54</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>01559403000138</cpf_cnpj_emitente>
+    <razão_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>148787084119</inscrição_estadual_emitente>
+    <uf_emitente>SP</uf_emitente>
+    <município_emitente>SAO PAULO</município_emitente>
+    <cnpj_destinatário>394429010688</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
+    <uf_destinatário>SP</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <valor_nota_fiscal>7366.73</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090102748563408488580645238497656224883207</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>2</série>
+    <número>14163</número>
+    <natureza_da_operação>5656 Venda de combustivel ou lubrificante, adquiridos ou re</natureza_da_operação>
+    <data_emissão>2025-09-05 02:35:36</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-05 02:45:36</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>29111673000109</cpf_cnpj_emitente>
+    <razão_social_emitente>DUME COMBUSTIVEIS BARRA DO GARCAS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>137367414</inscrição_estadual_emitente>
+    <uf_emitente>MT</uf_emitente>
+    <município_emitente>BARRA DO GARCAS</município_emitente>
+    <cnpj_destinatário>394429004017</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERON&amp;AACUTE;UTICA</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>730.64</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090180927284068395192358376841994919708821</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>3</série>
+    <número>134416</número>
+    <natureza_da_operação>REMESSA EM COMODATO</natureza_da_operação>
+    <data_emissão>2025-09-18 11:57:54</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-18 12:07:54</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>01559403000138</cpf_cnpj_emitente>
+    <razão_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>148787084119</inscrição_estadual_emitente>
+    <uf_emitente>SP</uf_emitente>
+    <município_emitente>SAO PAULO</município_emitente>
+    <cnpj_destinatário>394429010688</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
+    <uf_destinatário>SP</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presença_do_comprador>
+    <valor_nota_fiscal>7366.73</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090115009376816425349943563980361662951515</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>892</série>
+    <número>900184583</número>
+    <natureza_da_operação>VENDA</natureza_da_operação>
+    <data_emissão>2025-09-12 23:53:07</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-12 23:57:07</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>***.892.434-**</cpf_cnpj_emitente>
+    <razão_social_emitente>ALEXSANDRO BARBOSA LAURENTINO</razão_social_emitente>
+    <inscrição_estadual_emitente>-1</inscrição_estadual_emitente>
+    <uf_emitente>PB</uf_emitente>
+    <município_emitente>MARI</município_emitente>
+    <cnpj_destinatário>5526783000408</cnpj_destinatário>
+    <nome_destinatário>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>2014.63</valor_nota_fiscal>
+  </registro_cabecalho>
+</nfe_cabecalho>
