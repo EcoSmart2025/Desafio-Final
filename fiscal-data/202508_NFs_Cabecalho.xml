@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<nfe_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080117406517482015263257920507749280386191</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>5183</número>
+    <natureza_da_operação>Venda de mercadorias</natureza_da_operação>
+    <data_emissão>2025-08-04 13:39:09</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-04 13:46:09</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>12977901000117</cpf_cnpj_emitente>
+    <razão_social_emitente>MOSKO LTDA EPP</razão_social_emitente>
+    <inscrição_estadual_emitente>284058734</inscrição_estadual_emitente>
+    <uf_emitente>MS</uf_emitente>
+    <município_emitente>CAMPO GRANDE</município_emitente>
+    <cnpj_destinatário>15461510000133</cnpj_destinatário>
+    <nome_destinatário>FUNDACAO UNIVERSIDADE FEDERAL DE MS</nome_destinatário>
+    <uf_destinatário>MS</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>336.62</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080176648137825001755134034300078565422856</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>2</série>
+    <número>14163</número>
+    <natureza_da_operação>5656 Venda de combustivel ou lubrificante, adquiridos ou re</natureza_da_operação>
+    <data_emissão>2025-08-02 14:22:44</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-02 14:24:44</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>29111673000109</cpf_cnpj_emitente>
+    <razão_social_emitente>DUME COMBUSTIVEIS BARRA DO GARCAS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>137367414</inscrição_estadual_emitente>
+    <uf_emitente>MT</uf_emitente>
+    <município_emitente>BARRA DO GARCAS</município_emitente>
+    <cnpj_destinatário>394429004017</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERON&amp;AACUTE;UTICA</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>CONTRIBUINTE ISENTO</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>903.5</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080164565247760176661169022549114834775132</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>19486</número>
+    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
+    <data_emissão>2025-08-31 16:56:25</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-31 16:59:25</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
+    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <uf_emitente>RJ</uf_emitente>
+    <município_emitente>RIO DE JANEIRO</município_emitente>
+    <cnpj_destinatário>394502000144</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>4019.81</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080102063812549790963828834694591990586735</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>776</número>
+    <natureza_da_operação>VENDA DE MERCADORIA ADQUIRIDA OU RECEBIDA DE TERCEIROS</natureza_da_operação>
+    <data_emissão>2025-08-07 23:32:54</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-07 23:40:54</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>26044732000177</cpf_cnpj_emitente>
+    <razão_social_emitente>MATHEUS MED COMERCIO DE ARTIGOS MEDICOS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>162790775</inscrição_estadual_emitente>
+    <uf_emitente>PB</uf_emitente>
+    <município_emitente>JOAO PESSOA</município_emitente>
+    <cnpj_destinatário>3568867000136</cnpj_destinatário>
+    <nome_destinatário>HOSPITAL DAS FORCAS ARMADAS</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>6622.8</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080100680412875441411077452141726074589794</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>1105</número>
+    <natureza_da_operação>Vendas</natureza_da_operação>
+    <data_emissão>2025-08-28 16:39:04</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-28 16:45:04</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>32366879000186</cpf_cnpj_emitente>
+    <razão_social_emitente>EDGAR HERRERA PEREIRA</razão_social_emitente>
+    <inscrição_estadual_emitente>633837572112</inscrição_estadual_emitente>
+    <uf_emitente>SP</uf_emitente>
+    <município_emitente>SANTOS</município_emitente>
+    <cnpj_destinatário>9577973000162</cnpj_destinatário>
+    <nome_destinatário>SEGUNDO GRUPO DE ARTILHARIA ANTIAEREA</nome_destinatário>
+    <uf_destinatário>SP</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>1159.94</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080139244367097495514822067831987202510161</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>3386</número>
+    <natureza_da_operação>VENDA</natureza_da_operação>
+    <data_emissão>2025-08-22 12:40:22</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-22 12:43:22</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>78796778000146</cpf_cnpj_emitente>
+    <razão_social_emitente>G DE BORBA - MARISKAP</razão_social_emitente>
+    <inscrição_estadual_emitente>1016202980</inscrição_estadual_emitente>
+    <uf_emitente>PR</uf_emitente>
+    <município_emitente>CURITIBA</município_emitente>
+    <cnpj_destinatário>394429005927</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA AERONAUTICA</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>3610.25</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080164461943125633125958828193007924860476</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>27161</número>
+    <natureza_da_operação>BONIFICACAO</natureza_da_operação>
+    <data_emissão>2025-08-17 09:46:40</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-17 09:55:40</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>11637221000191</cpf_cnpj_emitente>
+    <razão_social_emitente>PROMOVENDO COM. E REPRES. DE MATERIAL HOSP. LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>78995734</inscrição_estadual_emitente>
+    <uf_emitente>RJ</uf_emitente>
+    <município_emitente>RIO DE JANEIRO</município_emitente>
+    <cnpj_destinatário>394429006575</cnpj_destinatário>
+    <nome_destinatário>HOSPITAL CENTRAL DA AERONAUTICA</nome_destinatário>
+    <uf_destinatário>RJ</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>89.1</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080123856938383689354773741972959983016224</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>19486</número>
+    <natureza_da_operação>VENDA DE MERCADORIA</natureza_da_operação>
+    <data_emissão>2025-08-08 19:34:03</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-08 19:41:03</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>5057706000103</cpf_cnpj_emitente>
+    <razão_social_emitente>RIOMAR 2001 DISTRIBUIDORA DE ALIMENTOS E DESCARTAVEIS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>77387250</inscrição_estadual_emitente>
+    <uf_emitente>RJ</uf_emitente>
+    <município_emitente>RIO DE JANEIRO</município_emitente>
+    <cnpj_destinatário>394502000144</cnpj_destinatário>
+    <nome_destinatário>COMANDO DA MARINHA</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>4846.05</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080110012808295813182053450935047630109757</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>2</série>
+    <número>93</número>
+    <natureza_da_operação>Venda mercantil para o Estado</natureza_da_operação>
+    <data_emissão>2025-08-21 20:58:47</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-21 21:02:47</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>1968236000189</cpf_cnpj_emitente>
+    <razão_social_emitente>MENMAR COMERCIO DE ALIMENTOS LTDA</razão_social_emitente>
+    <inscrição_estadual_emitente>86146185</inscrição_estadual_emitente>
+    <uf_emitente>RJ</uf_emitente>
+    <município_emitente>SAO GONCALO</município_emitente>
+    <cnpj_destinatário>394502019163</cnpj_destinatário>
+    <nome_destinatário>CENTRO DE INST. ALMIRANTE ALEXANDRINO</nome_destinatário>
+    <uf_destinatário>RJ</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>1 - OPERAÇÃO INTERNA</destino_da_operação>
+    <consumidor_final>0 - NORMAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>494.44</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080112834504195317565085452355925106631962</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>364908</número>
+    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
+    <data_emissão>2025-08-14 19:43:44</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-14 19:47:44</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
+    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
+    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <uf_emitente>SP</uf_emitente>
+    <município_emitente>CAJAMAR</município_emitente>
+    <cnpj_destinatário>378257000181</cnpj_destinatário>
+    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>140.65</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080119389630272865566419002900630262560244</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>365849</número>
+    <natureza_da_operação>RETORNO DE MATERIAL DEPOSITADO EM ARMAZEM GERAL</natureza_da_operação>
+    <data_emissão>2025-08-29 05:00:58</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-29 05:05:58</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>34028316923228</cpf_cnpj_emitente>
+    <razão_social_emitente>EMPRES BRASILEIRA DE CORREIOS E TELEGRAFOS</razão_social_emitente>
+    <inscrição_estadual_emitente>112388853119</inscrição_estadual_emitente>
+    <uf_emitente>SP</uf_emitente>
+    <município_emitente>CAJAMAR</município_emitente>
+    <cnpj_destinatário>378257000181</cnpj_destinatário>
+    <nome_destinatário>FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO</nome_destinatário>
+    <uf_destinatário>DF</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>0 - NÃO SE APLICA</presença_do_comprador>
+    <valor_nota_fiscal>131.73</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25080142382316411341213587973547310427119496</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <série>1</série>
+    <número>2525</número>
+    <natureza_da_operação>VENDA DE MERCADORIA FORA DO ESTADO</natureza_da_operação>
+    <data_emissão>2025-08-22 04:48:24</data_emissão>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-08-22 04:55:24</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>29843878000170</cpf_cnpj_emitente>
+    <razão_social_emitente>V CALDI PEREIRA PECAS E SERVICOS DIESEL</razão_social_emitente>
+    <inscrição_estadual_emitente>284290777</inscrição_estadual_emitente>
+    <uf_emitente>MS</uf_emitente>
+    <município_emitente>COXIM</município_emitente>
+    <cnpj_destinatário>9615848000108</cnpj_destinatário>
+    <nome_destinatário>4 BATALHAO LOGISTICO</nome_destinatário>
+    <uf_destinatário>RS</uf_destinatário>
+    <indicador_ie_destinatário>NÃO CONTRIBUINTE</indicador_ie_destinatário>
+    <destino_da_operação>2 - OPERAÇÃO INTERESTADUAL</destino_da_operação>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presença_do_comprador>1 - OPERAÇÃO PRESENCIAL</presença_do_comprador>
+    <valor_nota_fiscal>445.59</valor_nota_fiscal>
+  </registro_cabecalho>
+</nfe_cabecalho>
