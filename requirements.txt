@@ -17,3 +17,4 @@ tabulate
 io
 python-dotenv
 protobuf
+requests
