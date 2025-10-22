@@ -18,3 +18,5 @@ io
 python-dotenv
 protobuf
 requests
+json
+base64
