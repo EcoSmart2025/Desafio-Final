@@ -59,6 +59,56 @@ A arquitetura do projeto é modular e utiliza ferramentas de ponta para a orques
 
 ---
 
+### 📝 Orientação do sistema para funcionaento da solução
+
+🤖 EcoSmart: Automação Inteligente da Emissão e Análise de Notas Fiscais (NFs)
+
+1. Acessar o sistema
+➡️ Acesse o link: https://fiscal-data.streamlit.app/
+
+➡️ A tela inicial exibirá o menu principal da aplicação, com as opções Carga de NF-e e Fale com o Agente Especialista.
+
+2. Realizar a carga dos dados mensais
+   
+➡️ No menu lateral esquerdo, clique em Executar Cargas de Dados (ETL).
+
+➡️ Em Selecionar Mês de Referência, escolha 202508, CSV ou XML e pressione o botão Realizar Carga.
+
+➡️ O sistema carregará as notas fiscais correspondentes ao mês de agosto de 2025. Aguarde até que o status de conclusão seja exibido.
+
+➡️ Repita o procedimento, agora escolhendo o mês 202509, CSV ou XML e pressionando Realizar Carga.
+
+➡️ Este mês contém inconsistências simuladas propositalmente — diferenças entre valores de cabeçalho e itens, e duplicidade de chaves de acesso — para demonstrar o funcionamento da auditoria fiscal automatizada.
+
+3. Visualizar resultados e inconsistências
+
+➡️ Após a carga dos dois meses:
+➡️ Clique na aba Resultados e Auditoria no menu principal.
+➡️ O painel exibirá indicadores de validação e inconsistências detectadas.
+➡️ Acesse a seção Notas com Diferença de Valor (Cabeçalho vs Itens):
+➡️ Mostra as notas fiscais em que o total do cabeçalho diverge da soma de itens.
+➡️Acesse a seção Duplicidade de Chave de Acesso:
+➡️ Apresenta notas que foram emitidas mais de uma vez com o mesmo identificador fiscal.
+
+4. Interagir com o agente fiscal inteligente
+
+➡️ Após a simulação de carga e auditoria, clique na aba Fale com o Agente Especialista.
+➡️ Digite, por exemplo:
+
+“Liste as inconsistências encontradas no mês de 202509.”
+ou
+“Explique por que há diferença entre os valores do cabeçalho e dos itens.”
+
+➡️ O agente utiliza integração com LangChain e Google Gemini para interpretar as perguntas e gerar respostas explicativas, técnicas e fiscais baseadas nos dados processados. Ele pode fornecer diagnósticos, propor correções e gerar relatórios sintéticos sob demanda.
+
+5. Recomendações finais
+
+➡️ Execute sempre primeiro o mês sem erro (202508) antes do mês com inconsistência (202509), para facilitar a comparação.
+
+➡️ No ambiente do Streamlit Cloud, os dados são processados em memória; portanto, cada nova execução reinicia o contexto de trabalho.
+
+✅ Este roteiro cobre o fluxo completo de demonstração da aplicação fiscal inteligente — da carga à auditoria automática e explicação das inconsistências via agente especializado.
+
 ### 📜 Licença
 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
