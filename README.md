@@ -83,16 +83,23 @@ A arquitetura do projeto é modular e utiliza ferramentas de ponta para a orques
 3. Visualizar resultados e inconsistências
 
 ➡️ Após a carga dos dois meses:
+
 ➡️ Clique na aba Resultados e Auditoria no menu principal.
+
 ➡️ O painel exibirá indicadores de validação e inconsistências detectadas.
+
 ➡️ Acesse a seção Notas com Diferença de Valor (Cabeçalho vs Itens):
+
 ➡️ Mostra as notas fiscais em que o total do cabeçalho diverge da soma de itens.
+
 ➡️Acesse a seção Duplicidade de Chave de Acesso:
+
 ➡️ Apresenta notas que foram emitidas mais de uma vez com o mesmo identificador fiscal.
 
 4. Interagir com o agente fiscal inteligente
 
 ➡️ Após a simulação de carga e auditoria, clique na aba Fale com o Agente Especialista.
+
 ➡️ Digite, por exemplo:
 
 “Liste as inconsistências encontradas no mês de 202509.”
