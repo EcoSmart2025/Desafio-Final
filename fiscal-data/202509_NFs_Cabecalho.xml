@@ -44,7 +44,7 @@
     <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
-    <valor_nota_fiscal>181.08</valor_nota_fiscal>
+    <valor_nota_fiscal>151.46</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25090186419769403385448176915694744953390633</chave_de_acesso>
@@ -67,7 +67,7 @@
     <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
-    <valor_nota_fiscal>535.83</valor_nota_fiscal>
+    <valor_nota_fiscal>508.62</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25090102748563408488580645238497656224883207</chave_de_acesso>
@@ -136,7 +136,7 @@
     <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
-    <valor_nota_fiscal>1978.91</valor_nota_fiscal>
+    <valor_nota_fiscal>2014.63</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25090194194800171080541984660510240100495083</chave_de_acesso>
@@ -182,7 +182,7 @@
     <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
-    <valor_nota_fiscal>65.88</valor_nota_fiscal>
+    <valor_nota_fiscal>57.22</valor_nota_fiscal>
   </registro_cabecalho>
   <registro_cabecalho>
     <chave_de_acesso>25090160743582046146091816619243812439329114</chave_de_acesso>
@@ -228,6 +228,75 @@
     <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
-    <valor_nota_fiscal>8953.18</valor_nota_fiscal>
+    <valor_nota_fiscal>7366.73</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090102748563408488580645238497656224883207</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <s_rie>2</s_rie>
+    <n_mero>14163</n_mero>
+    <natureza_da_opera_o>5656 Venda de combustivel ou lubrificante, adquiridos ou re</natureza_da_opera_o>
+    <data_emiss_o>2025-09-05 02:35:36</data_emiss_o>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-05 02:45:36</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>29111673000109</cpf_cnpj_emitente>
+    <raz_o_social_emitente>DUME COMBUSTIVEIS BARRA DO GARCAS LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>137367414</inscri_o_estadual_emitente>
+    <uf_emitente>MT</uf_emitente>
+    <munic_pio_emitente>BARRA DO GARCAS</munic_pio_emitente>
+    <cnpj_destinat_rio>394429004017</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERON&amp;AACUTE;UTICA</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>CONTRIBUINTE ISENTO</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
+    <valor_nota_fiscal>730.64</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090180927284068395192358376841994919708821</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <s_rie>3</s_rie>
+    <n_mero>134416</n_mero>
+    <natureza_da_opera_o>REMESSA EM COMODATO</natureza_da_opera_o>
+    <data_emiss_o>2025-09-18 11:57:54</data_emiss_o>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-18 12:07:54</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>01559403000138</cpf_cnpj_emitente>
+    <raz_o_social_emitente>BIO 2 IMP. E COM DE MAT. MED. HOSP. LTDA</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>148787084119</inscri_o_estadual_emitente>
+    <uf_emitente>SP</uf_emitente>
+    <munic_pio_emitente>SAO PAULO</munic_pio_emitente>
+    <cnpj_destinat_rio>394429010688</cnpj_destinat_rio>
+    <nome_destinat_rio>COMANDO DA AERONAUTICA</nome_destinat_rio>
+    <uf_destinat_rio>SP</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>1 - OPERAÇÃO INTERNA</destino_da_opera_o>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
+    <valor_nota_fiscal>7366.73</valor_nota_fiscal>
+  </registro_cabecalho>
+  <registro_cabecalho>
+    <chave_de_acesso>25090115009376816425349943563980361662951515</chave_de_acesso>
+    <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
+    <s_rie>892</s_rie>
+    <n_mero>900184583</n_mero>
+    <natureza_da_opera_o>VENDA</natureza_da_opera_o>
+    <data_emiss_o>2025-09-12 23:53:07</data_emiss_o>
+    <evento_mais_recente>Autorização de Uso</evento_mais_recente>
+    <data_hora_evento_mais_recente>2025-09-12 23:57:07</data_hora_evento_mais_recente>
+    <cpf_cnpj_emitente>***.892.434-**</cpf_cnpj_emitente>
+    <raz_o_social_emitente>ALEXSANDRO BARBOSA LAURENTINO</raz_o_social_emitente>
+    <inscri_o_estadual_emitente>-1</inscri_o_estadual_emitente>
+    <uf_emitente>PB</uf_emitente>
+    <munic_pio_emitente>MARI</munic_pio_emitente>
+    <cnpj_destinat_rio>5526783000408</cnpj_destinat_rio>
+    <nome_destinat_rio>MINISTERIO DO DESENVOLVIMENTO SOCIAL, FAMILIA E COMBATE A FO</nome_destinat_rio>
+    <uf_destinat_rio>DF</uf_destinat_rio>
+    <indicador_ie_destinat_rio>NÃO CONTRIBUINTE</indicador_ie_destinat_rio>
+    <destino_da_opera_o>2 - OPERAÇÃO INTERESTADUAL</destino_da_opera_o>
+    <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
+    <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
+    <valor_nota_fiscal>2014.63</valor_nota_fiscal>
   </registro_cabecalho>
 </nfe_cabecalho>
