@@ -177,7 +177,7 @@ def show_main_page():
     
     # CONSTRUÇÃO DA SEGUNDA TABELA COM DATAFRAME
     data_equipe = {
-        "Nome": ["Jair", "Rogério", "Robson", "Javan"],
+        "Nome": ["Jair Lopes", "Rogério Texeira", "Robson Santos", "Javan Almeida"],
         "E-mail": ["jjuniorlopes@gmail.com", "rogerio.batista.teixeira@gmail.com", "santos.robson@gmail.com", "javanoalmeida@gmail.com"]
     }
     df_equipe = pd.DataFrame(data_equipe)
