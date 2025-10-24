@@ -102,9 +102,9 @@ A arquitetura do projeto é modular e utiliza ferramentas de ponta para a orques
 
 ➡️ Digite, por exemplo:
 
-“Liste as Notas com Diferença de Valor (Cabeçalho vs Itens)”
+“Liste as Notas com Diferença de Valor (Cabeçalho vs Itens) e mostre o resutlado em formato de tabela.”
 ou
-“Liste as notas com  Duplicidade de Chave de Acesso..”
+“Liste as notas com  Duplicidade de Chave de Acesso e mostre o resutlado em formato de tabela.”
 
 ➡️ O agente utiliza integração com LangChain e Google Gemini para interpretar as perguntas e gerar respostas explicativas, técnicas e fiscais baseadas nos dados processados. Ele pode fornecer diagnósticos, propor correções e gerar relatórios sintéticos sob demanda.
 
