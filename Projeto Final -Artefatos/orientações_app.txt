@@ -48,7 +48,7 @@ Digite, por exemplo:
 
 “Me mostre as inconsistências das notas no ano de 2025.”
 ou
-“Monte um relatorio,  crie um resumo e me forneça insight das notas emitidas do ano de 2025.”
+“Qual o tatoal de notas emitidas em 2025?”
 
 ➡️ O agente utiliza integração com LangChain e Google Gemini para interpretar as perguntas e gerar respostas explicativas, técnicas e fiscais baseadas nos dados processados. Ele pode fornecer diagnósticos, propor correções e gerar relatórios sintéticos sob demanda.
 
