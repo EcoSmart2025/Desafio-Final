@@ -4,6 +4,8 @@
 
 1. Acessar o sistema
 
+Link: https://fiscal-data.streamlit.app/
+
 ➡️ A tela inicial exibirá o menu principal da aplicação, com as opções Carga de NF-e e Fale com o Agente Especialista.
 
 2. Realizar a carga dos dados mensais
@@ -44,9 +46,9 @@ Essas áreas permitem download detalhado dos registros e acompanhamento das anom
 
 Digite, por exemplo:
 
-“Liste as inconsistências encontradas no mês de 202509.”
+“Me mostre as inconsistências das notas no ano de 2025.”
 ou
-“Explique por que há diferença entre os valores do cabeçalho e dos itens.”
+“Monte um relatorio,  crie um resumo e me forneça insight das notas emitidas do ano de 2025.”
 
 ➡️ O agente utiliza integração com LangChain e Google Gemini para interpretar as perguntas e gerar respostas explicativas, técnicas e fiscais baseadas nos dados processados. Ele pode fornecer diagnósticos, propor correções e gerar relatórios sintéticos sob demanda.
 
