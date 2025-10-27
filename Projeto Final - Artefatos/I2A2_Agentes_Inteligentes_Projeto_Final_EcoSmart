@@ -22,7 +22,7 @@
 1.4. Interagir com o agente fiscal inteligente
 •	Após a simulação de carga e auditoria, clique na aba Fale com o Agente Especialista.
 •	Digite, por exemplo:
-“Liste as inconsistências encontradas no mês de 202509.”
+“Liste as inconsistências encontradas no mês de 2025 e mostre os resutlados em formato de tabelas”
 ou
 “Explique por que há diferença entre os valores do cabeçalho e dos itens.”
 •	O agente utiliza integração com LangChain e Google Gemini para interpretar as perguntas e gerar respostas explicativas, técnicas e fiscais baseadas nos dados processados. Ele pode fornecer diagnósticos, propor correções e gerar relatórios sintéticos sob demanda.
