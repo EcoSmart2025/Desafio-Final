@@ -54,7 +54,7 @@ A arquitetura do projeto é modular e utiliza ferramentas de ponta para a orques
 | :--- | :--- | :--- |
 | Jair Lopes | jjuniorlopes@gmail.com | +5571992888890 |
 | Rogério Texeira | rogerio.batista.teixeira@gmail.com | +5561991810140 |
-| Robson Santos  |  santos.robson@gmail.com  | +5521996696180 |
+| Robson Santos  |  santos.robson@gmail.com  | +553398806-6314 |
 | Javan Almeita | javanoalmeida@gmail.com | +5574991415181 |
 
 ---
@@ -115,6 +115,15 @@ ou
 ➡️ No ambiente do Streamlit Cloud, os dados são processados em memória; portanto, cada nova execução reinicia o contexto de trabalho.
 
 ✅ Este roteiro cobre o fluxo completo de demonstração da aplicação fiscal inteligente — da carga à auditoria automática e explicação das inconsistências via agente especializado.
+
+6. Link GitHub
+
+Acessar o link:
+
+https://github.com/EcoSmart2025/Desafio-Final.git
+
+➡️ Ir na opção CODE e escolher Download ZIP, na qual vai baixar o projeto inteiro com a pasta Projeto Final - Artefatos,
+que tem os arquivos e escolher I2A2_Agentes_Inteligentes_Projeto_Final_EcoSmart.pptx, I2A2_Agentes_Inteligentes_Projeto_Final_EcoSmart.mp4 e I2A2_Agentes_Inteligentes_Projeto_Final_EcoSmart.pdf
 
 ### 📜 Licença
 
