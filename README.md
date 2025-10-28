@@ -55,7 +55,7 @@ A arquitetura do projeto é modular e utiliza ferramentas de ponta para a orques
 | Jair Lopes | jjuniorlopes@gmail.com | +5571992888890 |
 | Rogério Texeira | rogerio.batista.teixeira@gmail.com | +5561991810140 |
 | Robson Santos  |  santos.robson@gmail.com  | +5521996696180 |
-| Javan Almeita | javanoalmeida@gmail.com | +5533988066314 |
+| Javan Almeita | javanoalmeida@gmail.com | +5574991415181 |
 
 ---
 
